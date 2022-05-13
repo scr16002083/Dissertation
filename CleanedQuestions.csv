@@ -1,51 +1,52 @@
 ,Question,Name,Source
-0,"Lad wrote a Python script to download Alexa voice recordings, he didn't expect this email.",g53lxf,Reddit - r/Python
-1,"9777 upvotes,
+0,Test,Test,Test
+1,"Lad wrote a Python script to download Alexa voice recordings, he didn't expect this email.",hoolsm,Reddit - r/Python
+2,"9777 upvotes,
 
 967 downvotes
 
-and 452 comments!",hoolsm,Reddit - r/Python
-2,I redesign the Python logo to make it more modern,gftejm,Reddit - r/Python
-3,Automate the boring stuff with python - tinder,7kpme8,Reddit - r/Python
-4,"Just finished programming and building my own smart mirror in python, wrote all of the code myself and implemented my own voice control and facial recognition features",dmkx8a,Reddit - r/Python
-5,"I'm excited to share my first published book, Introduction to Python Programming for Business and Social Science Applications -- specifically geared towards students not specifically in computer science",irh8l0,Reddit - r/Python
-6,Drawing Mona Lisa with 256 circles using evolution [Github repo in comments],gn9add,Reddit - r/Python
-7,I made a simulation using Python in which a neural network learns to race,hqc7ol,Reddit - r/Python
-8,"Thanks to everyone’s advice, my mouse drawing algorithm has gotten much better and faster!",ghxqod,Reddit - r/Python
-9,Debugging Cheat Sheet,iehths,Reddit - r/Python
-10,Just trying to create a orbit system in python and this happened...,dg0etx,Reddit - r/Python
-11,Dev'ing an app to help visualize data from any matplotlib figure,gbko3e,Reddit - r/Python
-12,I've designed brand new cheatsheets (x2) and handouts (x3) for matplotlib,hmoabi,Reddit - r/Python
-13,"I am a medical student, and I recently programmed an open-source eye-tracker for brain research",hpr28u,Reddit - r/Python
-14,"MS is considering official Python integration with Excel, and is asking for input",7jti46,Reddit - r/Python
-15,Python 3 in One Pic,gzila7,Reddit - r/Python
-16,I've made a 3D scanner that's fully automated using Python script on Android phone!,f55076,Reddit - r/Python
-17,I made a little program that mutes spotify ads because i dont have the money to get premium . Not anything special but i think its quite neat. Any ideas on cool python projects i can build ?,ga7y7f,Reddit - r/Python
-18,The only way to satisfy a programmer on his birthday!,hg9sk8,Reddit - r/Python
-19,Happy Holidays! Made a user-directed greeting card using Python Turtle Graphics,e9fgjp,Reddit - r/Python
-20,Python's response to MATLAB,cmdbuf,Reddit - r/Python
-21,Laid off for 8 weeks. Anyone else starting their python journey?,fjqoxv,Reddit - r/Python
-22,[Beginner’s Guide] How to start programming in Python,fr5561,Reddit - r/Python
-23,Python Cheet Sheet for begineers,7mwgtw,Reddit - r/Python
-24,A Python GUI for uninstalling the default Windows 10 apps.,gs7xdb,Reddit - r/Python
-25,"A tool that copies a selected area of your screen, not as a picture, but as pastable text (GitHub in comments)",goldxf,Reddit - r/Python
-26,"Python project that answers high-school problems almost instantly. Made using Tesseract, Scrapy and Flask.",f35yg0,Reddit - r/Python
-27,Thought this looked familiar...,hu4umj,Reddit - r/Python
-28,"PrettyErrors, a module to format exception reports",jui7zw,Reddit - r/Python
-29,Finished a program that draws images with epicycles!,gvnyx5,Reddit - r/Python
-30,Python in a nutshell (Had to do it),hrvxrd,Reddit - r/Python
-31,I wrote a Python program to play Google Dinosaur Game using Gesture Recognition,er9q4h,Reddit - r/Python
-32,"I made an AI opponent for lesser known board game - Chain Reaction. Apparently, it plays better than me!",gjlcyp,Reddit - r/Python
-33,End-to-End Self Driving Car - Need For Speed,iwt09a,Reddit - r/Python
-34,My Professor wants hand written assignments. So I made MyhandWriting.. that can write in myway on a A4 sheet paper.,g5bbss,Reddit - r/Python
-35,So I made a Python and Arduino project that dynamically changes sets the ambient lighting to match the computed dominant color values from the wallpapers.,glzol8,Reddit - r/Python
-36,"I am excited to share my 8th published book, Python 101, geared for beginners and intermediate level readers",isbjm4,Reddit - r/Python
-37,This great message,j5a2ih,Reddit - r/Python
-38,Made an annoying Python script that sends a friend on Facebook Messenger the Shrek movie word by word,gaqe3d,Reddit - r/Python
-39,I'm developing a game with Python and Pygame!,ggt5ld,Reddit - r/Python
-40,I made an Instagram Bot to make DeepFakes for everyone! @deepfake.maker,izspe0,Reddit - r/Python
-41,I finished my Python Ray Tracer capable of rendering refraction and thin film interference!,i9q4dx,Reddit - r/Python
-42,"3829 upvotes,
+and 452 comments!",gftejm,Reddit - r/Python
+3,I redesign the Python logo to make it more modern,7kpme8,Reddit - r/Python
+4,Automate the boring stuff with python - tinder,dmkx8a,Reddit - r/Python
+5,"Just finished programming and building my own smart mirror in python, wrote all of the code myself and implemented my own voice control and facial recognition features",irh8l0,Reddit - r/Python
+6,"I'm excited to share my first published book, Introduction to Python Programming for Business and Social Science Applications -- specifically geared towards students not specifically in computer science",gn9add,Reddit - r/Python
+7,Drawing Mona Lisa with 256 circles using evolution [Github repo in comments],hqc7ol,Reddit - r/Python
+8,I made a simulation using Python in which a neural network learns to race,ghxqod,Reddit - r/Python
+9,"Thanks to everyone’s advice, my mouse drawing algorithm has gotten much better and faster!",iehths,Reddit - r/Python
+10,Debugging Cheat Sheet,dg0etx,Reddit - r/Python
+11,Just trying to create a orbit system in python and this happened...,gbko3e,Reddit - r/Python
+12,Dev'ing an app to help visualize data from any matplotlib figure,hmoabi,Reddit - r/Python
+13,I've designed brand new cheatsheets (x2) and handouts (x3) for matplotlib,hpr28u,Reddit - r/Python
+14,"I am a medical student, and I recently programmed an open-source eye-tracker for brain research",7jti46,Reddit - r/Python
+15,"MS is considering official Python integration with Excel, and is asking for input",gzila7,Reddit - r/Python
+16,Python 3 in One Pic,f55076,Reddit - r/Python
+17,I've made a 3D scanner that's fully automated using Python script on Android phone!,ga7y7f,Reddit - r/Python
+18,I made a little program that mutes spotify ads because i dont have the money to get premium . Not anything special but i think its quite neat. Any ideas on cool python projects i can build ?,hg9sk8,Reddit - r/Python
+19,The only way to satisfy a programmer on his birthday!,e9fgjp,Reddit - r/Python
+20,Happy Holidays! Made a user-directed greeting card using Python Turtle Graphics,cmdbuf,Reddit - r/Python
+21,Python's response to MATLAB,fjqoxv,Reddit - r/Python
+22,Laid off for 8 weeks. Anyone else starting their python journey?,fr5561,Reddit - r/Python
+23,[Beginner’s Guide] How to start programming in Python,7mwgtw,Reddit - r/Python
+24,Python Cheet Sheet for begineers,gs7xdb,Reddit - r/Python
+25,A Python GUI for uninstalling the default Windows 10 apps.,goldxf,Reddit - r/Python
+26,"A tool that copies a selected area of your screen, not as a picture, but as pastable text (GitHub in comments)",f35yg0,Reddit - r/Python
+27,"Python project that answers high-school problems almost instantly. Made using Tesseract, Scrapy and Flask.",hu4umj,Reddit - r/Python
+28,Thought this looked familiar...,jui7zw,Reddit - r/Python
+29,"PrettyErrors, a module to format exception reports",gvnyx5,Reddit - r/Python
+30,Finished a program that draws images with epicycles!,hrvxrd,Reddit - r/Python
+31,Python in a nutshell (Had to do it),er9q4h,Reddit - r/Python
+32,I wrote a Python program to play Google Dinosaur Game using Gesture Recognition,gjlcyp,Reddit - r/Python
+33,"I made an AI opponent for lesser known board game - Chain Reaction. Apparently, it plays better than me!",iwt09a,Reddit - r/Python
+34,End-to-End Self Driving Car - Need For Speed,g5bbss,Reddit - r/Python
+35,My Professor wants hand written assignments. So I made MyhandWriting.. that can write in myway on a A4 sheet paper.,glzol8,Reddit - r/Python
+36,So I made a Python and Arduino project that dynamically changes sets the ambient lighting to match the computed dominant color values from the wallpapers.,isbjm4,Reddit - r/Python
+37,"I am excited to share my 8th published book, Python 101, geared for beginners and intermediate level readers",j5a2ih,Reddit - r/Python
+38,This great message,gaqe3d,Reddit - r/Python
+39,Made an annoying Python script that sends a friend on Facebook Messenger the Shrek movie word by word,ggt5ld,Reddit - r/Python
+40,I'm developing a game with Python and Pygame!,izspe0,Reddit - r/Python
+41,I made an Instagram Bot to make DeepFakes for everyone! @deepfake.maker,i9q4dx,Reddit - r/Python
+42,I finished my Python Ray Tracer capable of rendering refraction and thin film interference!,iiamfv,Reddit - r/Python
+43,"3829 upvotes,
 
 572 downvotes,
 
@@ -63,13 +64,13 @@ Credit to u/Krukerfluk and Tom Scott!
 
 Code: https://github.com/CalvinMiller190/reddit-post
 
-This post uses the [praw module](https://praw.readthedocs.io/en/latest/) to get the information about the post, then edits the post every second based on the information that it got!",iiamfv,Reddit - r/Python
-43,Made a Screen Dimmer based on Facial Recognition with OpenCV and AppleScript!,h9bfe4,Reddit - r/Python
-44,"A Program that acts as an ""invisibility cloak""... It camouflages any person/object that appears in front of the camera.... Sorry for the colour jittering🙈",hnknw0,Reddit - r/Python
-45,"We started late, but we managed to leave Python footprint on r/place!",63dkmq,Reddit - r/Python
-46,An update on Python 4,itzn13,Reddit - r/Python
-47,hashtags,e2234a,Reddit - r/Python
-48,"Finally!
+This post uses the [praw module](https://praw.readthedocs.io/en/latest/) to get the information about the post, then edits the post every second based on the information that it got!",h9bfe4,Reddit - r/Python
+44,Made a Screen Dimmer based on Facial Recognition with OpenCV and AppleScript!,hnknw0,Reddit - r/Python
+45,"A Program that acts as an ""invisibility cloak""... It camouflages any person/object that appears in front of the camera.... Sorry for the colour jittering🙈",63dkmq,Reddit - r/Python
+46,"We started late, but we managed to leave Python footprint on r/place!",itzn13,Reddit - r/Python
+47,An update on Python 4,e2234a,Reddit - r/Python
+48,hashtags,hv2vds,Reddit - r/Python
+49,"Finally!
 
 After 9 months of purely studying and nothing else. Started from absolute 0 and landed my first job in Data Science on a marketing company.
 
@@ -77,11 +78,11 @@ Have to say it was very hard since I know no developers at all and had no one to
 
 Still feels weird and definitely have a stromg case of imposter syndrome but after writing my forst lines of code it does feel much better!
 
-Sorry for the useless trivia but like I said,have no dev friends so I had to share the excitement somewhere :D",hv2vds,Reddit - r/Python
-49,Recursively flipping and rotating an image. Python source code in comments!,j3hq21,Reddit - r/Python
-50,I released the Code for the Instagram DeepFake Bot!,j2ai2r,Reddit - r/Python
-51,I made a ray tracer that simulates curved spacetime by using Einstein's field equations from general relativity. Here's a black hole!,hb108j,Reddit - r/Python
-52,"I waS tIrED OF mAnUaLlY tYPinG UpPEr And lOwERcaSes, whEn i wANteD tO mOCk A coMMeNT. sO i MAde a ScRIpt FOr It iNsTeaD. iT TaKEs anY stRIng And rANdOMly apPLieS aN UPpeR or LowERcaSe to IT. iT aLso maKes sUre tHeRe Are no MoRe ThAN twO oF ThE SAme upPEr or lOwERcAseS iN A roW, BeCauSe haVinG tHreE oF thE SaME iN A Row LooKs rEAllY WEiRD. I ALso coNSidEReD MAkiNg SuRe thAT 'i' WOuLD aLWaYS bE in LOwErcASe And 'L' WoUlD alWAyS Be in uPpErCAsE, BUt THaT MAdE it lOoK kiNDa wEIrd. ANyWAys, heRE'S THe COdE:
+Sorry for the useless trivia but like I said,have no dev friends so I had to share the excitement somewhere :D",j3hq21,Reddit - r/Python
+50,Recursively flipping and rotating an image. Python source code in comments!,j2ai2r,Reddit - r/Python
+51,I released the Code for the Instagram DeepFake Bot!,hb108j,Reddit - r/Python
+52,I made a ray tracer that simulates curved spacetime by using Einstein's field equations from general relativity. Here's a black hole!,j8kpes,Reddit - r/Python
+53,"I waS tIrED OF mAnUaLlY tYPinG UpPEr And lOwERcaSes, whEn i wANteD tO mOCk A coMMeNT. sO i MAde a ScRIpt FOr It iNsTeaD. iT TaKEs anY stRIng And rANdOMly apPLieS aN UPpeR or LowERcaSe to IT. iT aLso maKes sUre tHeRe Are no MoRe ThAN twO oF ThE SAme upPEr or lOwERcAseS iN A roW, BeCauSe haVinG tHreE oF thE SaME iN A Row LooKs rEAllY WEiRD. I ALso coNSidEReD MAkiNg SuRe thAT 'i' WOuLD aLWaYS bE in LOwErcASe And 'L' WoUlD alWAyS Be in uPpErCAsE, BUt THaT MAdE it lOoK kiNDa wEIrd. ANyWAys, heRE'S THe COdE:
 
 [https://github.com/peterlravn/My-projects/blob/master/A%20ScrIpt%20tO%20MaKE%20fUN%20of%20A%20sENteNcE.ipynb](https://github.com/peterlravn/My-projects/blob/master/A%20ScrIpt%20tO%20MaKE%20fUN%20of%20A%20sENteNcE.ipynb)
 
@@ -89,15 +90,15 @@ i'M kiNdA neW tO pyThOn, so thErE'S prOBabLy THinGs In thE coDe thAT's noT VerY.
 
 EdIt: HErE'S A NeW AnD UpDaTEd VerSiOn, WHicH WOrKs bY hiGHliGhtIng tEXt anD tHEn coPIeS ThE nEw SPonGe-tEXt tO The clIp bOArd:
 
-[https://github.com/peterlravn/My-projects/blob/master/A%20ScrIpt%20tO%20MaKE%20fUN%20of%20A%20sENteNcE%20v.2.ipynb](https://github.com/peterlravn/My-projects/blob/master/A%20ScrIpt%20tO%20MaKE%20fUN%20of%20A%20sENteNcE%20v.2.ipynb)",j8kpes,Reddit - r/Python
-53,Replicating Face Mask Detection - OpenCV and MobileNetV2,h7qjw7,Reddit - r/Python
-54,I think it’s clear why I chose a Software Engineering career path instead of being an Artist,jltffk,Reddit - r/Python
-55,Trying to keep my Jump Rope and AI Skills on point! Made this application using OpenPose. Link to the Medium tutorial and the GitHub Repo in the thread.,j02ftz,Reddit - r/Python
-56,"I teach Python courses - here's my collection of about 1,000 slides on various Python topics, including data science (hosted on GitHub, licensed under CC-BY-SA)",jii8ex,Reddit - r/Python
-57,"Because of quarantine and online clases I made some scripts to automatically connect to my zoom classes to get more sleep, I also configured my Mac to show old recording of me as a virtual cam in zoom so I don't have to attend early classes",fna798,Reddit - r/Python
-58,My python image/GIF glitching library is now on pypi!,f7taiy,Reddit - r/Python
-59,"Python Section at Foyle's, London",6no8fm,Reddit - r/Python
-60,"It detects when an advertisement plays by monitoring the type of what track is currently playing, using the Spotipy api. It then closes and opens Spotify by the os module and plays it via pynput.
+[https://github.com/peterlravn/My-projects/blob/master/A%20ScrIpt%20tO%20MaKE%20fUN%20of%20A%20sENteNcE%20v.2.ipynb](https://github.com/peterlravn/My-projects/blob/master/A%20ScrIpt%20tO%20MaKE%20fUN%20of%20A%20sENteNcE%20v.2.ipynb)",h7qjw7,Reddit - r/Python
+54,Replicating Face Mask Detection - OpenCV and MobileNetV2,jltffk,Reddit - r/Python
+55,I think it’s clear why I chose a Software Engineering career path instead of being an Artist,j02ftz,Reddit - r/Python
+56,Trying to keep my Jump Rope and AI Skills on point! Made this application using OpenPose. Link to the Medium tutorial and the GitHub Repo in the thread.,jii8ex,Reddit - r/Python
+57,"I teach Python courses - here's my collection of about 1,000 slides on various Python topics, including data science (hosted on GitHub, licensed under CC-BY-SA)",fna798,Reddit - r/Python
+58,"Because of quarantine and online clases I made some scripts to automatically connect to my zoom classes to get more sleep, I also configured my Mac to show old recording of me as a virtual cam in zoom so I don't have to attend early classes",f7taiy,Reddit - r/Python
+59,My python image/GIF glitching library is now on pypi!,6no8fm,Reddit - r/Python
+60,"Python Section at Foyle's, London",in1pyu,Reddit - r/Python
+61,"It detects when an advertisement plays by monitoring the type of what track is currently playing, using the Spotipy api. It then closes and opens Spotify by the os module and plays it via pynput.
 
 There have been a few programs in this subreddit which offer a similar functionality but mute spotify, and play another locally-stored song. I preferred not using that method and hence did this.
 
@@ -111,25 +112,25 @@ https://preview.redd.it/prkuja5q6cl51.png?width=4560&amp;format=png&amp;auto=web
 
 ~~And to all the people who claim this is stealing, I just wanted to say that while it does test ethical bounds, this program merely restarts Spotify using legally-obtained data from Spotify.~~
 
-While this project has been an immensely rewarding learning experience, u/rtphokie kindly provided [reasons](https://www.reddit.com/r/Python/comments/in1pyu/i_made_a_spotify_ad_stopper_because_i_was_too/g45jgkd?utm_source=share&amp;utm_medium=web2x&amp;context=3) as to why this *could* possibly violate copyright laws. Hence I recommend one to utilize the code solely for learning purposes.",in1pyu,Reddit - r/Python
-61,"I was tired of opening 100s of tabs for internship apps. So, I made an app to scrape and apply to every single job listing on Glassdoor with one click using Selenium! (source code and YT video linked below)",gpaegj,Reddit - r/Python
-62,Change text in place with custom hotkeys (Python Keyboard Listener),fbavjd,Reddit - r/Python
-63,Found this on twitter,d23ibi,Reddit - r/Python
-64,I made a python drawing,d3mvh0,Reddit - r/Python
-65,Randomly Generate 69420 - Generate random 5-digit numbers until 69420 is generated,hvq628,Reddit - r/Python
-66,Fourier Series Visualizer in pygame.,ghab3o,Reddit - r/Python
-67,Hexapod Robot Simulator with only Numpy and Plotly Dash,g2njfz,Reddit - r/Python
-68,I made a project that generates the graph,hxnyge,Reddit - r/Python
-69,How to quickly remove duplicates from a list?,jfx7wy,Reddit - r/Python
-70,"I was wondering if there is a scenario where you would actually need BeautifulSoup. IMHO you can do with Selenium as much and even more than with BS, and Selenium is easier, at least for me. But if people use it there must be a reason, right?",ndozrt,Reddit - r/Python
-71,My pothole detector. Used yolov3 annotated images on labelimg.,g7q2ej,Reddit - r/Python
-72,I made a fractal tree in python using turtle,gwdjwr,Reddit - r/Python
-73,I created a python script to generate color palettes from images (info + github link in comments),dmzs6s,Reddit - r/Python
-74,Microsoft Considers Adding Python As an Official Scripting Language in Excel,7kcjeq,Reddit - r/Python
-75,Snake 4d - 4 spatial dimension game,gyt05b,Reddit - r/Python
-76,"PrettyErrors, a module to format exception reports",qxeyrn,Reddit - r/Python
-77,I'm working on a 2d N-body simulation using Python and Pygame,hr24b1,Reddit - r/Python
-78,"# How to create an algorithmic trading bot with Python
+While this project has been an immensely rewarding learning experience, u/rtphokie kindly provided [reasons](https://www.reddit.com/r/Python/comments/in1pyu/i_made_a_spotify_ad_stopper_because_i_was_too/g45jgkd?utm_source=share&amp;utm_medium=web2x&amp;context=3) as to why this *could* possibly violate copyright laws. Hence I recommend one to utilize the code solely for learning purposes.",gpaegj,Reddit - r/Python
+62,"I was tired of opening 100s of tabs for internship apps. So, I made an app to scrape and apply to every single job listing on Glassdoor with one click using Selenium! (source code and YT video linked below)",fbavjd,Reddit - r/Python
+63,Change text in place with custom hotkeys (Python Keyboard Listener),d23ibi,Reddit - r/Python
+64,Found this on twitter,d3mvh0,Reddit - r/Python
+65,I made a python drawing,hvq628,Reddit - r/Python
+66,Randomly Generate 69420 - Generate random 5-digit numbers until 69420 is generated,ghab3o,Reddit - r/Python
+67,Fourier Series Visualizer in pygame.,g2njfz,Reddit - r/Python
+68,Hexapod Robot Simulator with only Numpy and Plotly Dash,hxnyge,Reddit - r/Python
+69,I made a project that generates the graph,jfx7wy,Reddit - r/Python
+70,How to quickly remove duplicates from a list?,ndozrt,Reddit - r/Python
+71,"I was wondering if there is a scenario where you would actually need BeautifulSoup. IMHO you can do with Selenium as much and even more than with BS, and Selenium is easier, at least for me. But if people use it there must be a reason, right?",g7q2ej,Reddit - r/Python
+72,My pothole detector. Used yolov3 annotated images on labelimg.,gwdjwr,Reddit - r/Python
+73,I made a fractal tree in python using turtle,dmzs6s,Reddit - r/Python
+74,I created a python script to generate color palettes from images (info + github link in comments),7kcjeq,Reddit - r/Python
+75,Microsoft Considers Adding Python As an Official Scripting Language in Excel,gyt05b,Reddit - r/Python
+76,Snake 4d - 4 spatial dimension game,qxeyrn,Reddit - r/Python
+77,"PrettyErrors, a module to format exception reports",hr24b1,Reddit - r/Python
+78,I'm working on a 2d N-body simulation using Python and Pygame,ld81ic,Reddit - r/Python
+79,"# How to create an algorithmic trading bot with Python
 
 &amp;#x200B;
 
@@ -151,18 +152,18 @@ While this project has been an immensely rewarding learning experience, u/rtphok
 *Disclaimer: Trading financial markets involves risk, and is not suitable for all investors. I am not responsible for any losses incurred due to your trading or anything else. I do not recommend any specific trade or action, and any trades you decide to take are your own.*  
 
 
-**EDIT: I just want to say a huge thank you for the overwhelming support everyone in this community has given to me. I will be continuing this series diving into more advanced topics and eventually will share how I created a UI for the bot and also for back testing.**",ld81ic,Reddit - r/Python
-79,A Command Line Stock Dashboard,hx9q9p,Reddit - r/Python
-80,We did it,j4dydg,Reddit - r/Python
-81,These two books changed my life in 2018!,abjuw4,Reddit - r/Python
-82,Happy 4th of July from Chicago,hkr6u5,Reddit - r/Python
-83,"I created my first app, ""Timeglass"", a simple, unobtrusive menu bar timer for macOS.",gf4boc,Reddit - r/Python
-84,Embedded Python: Build a Game on the BBC micro:bit – Real Python,nf4jh0,Reddit - r/Python
-85,I created a GUI that collates various interests of mine in one handy place,gxsb8v,Reddit - r/Python
-86,White Cuts Across Black Background - an effect achieved through good use of the Python Image Library,i4x5bw,Reddit - r/Python
-87,"With my limited knowledge in Python, I wrote a simple script to control my motorized microscope from a keyboard. All instructions are open-source. Just wanted to share with this community for possible comments and suggestions for further improvements.",gizm2t,Reddit - r/Python
-88,Lil cheatsheet,arp3z9,Reddit - r/Python
-89,"My course is called Python NumPy For Your Grandma - So easy your grandma could learn it. Here's the course outline.
+**EDIT: I just want to say a huge thank you for the overwhelming support everyone in this community has given to me. I will be continuing this series diving into more advanced topics and eventually will share how I created a UI for the bot and also for back testing.**",hx9q9p,Reddit - r/Python
+80,A Command Line Stock Dashboard,j4dydg,Reddit - r/Python
+81,We did it,abjuw4,Reddit - r/Python
+82,These two books changed my life in 2018!,hkr6u5,Reddit - r/Python
+83,Happy 4th of July from Chicago,gf4boc,Reddit - r/Python
+84,"I created my first app, ""Timeglass"", a simple, unobtrusive menu bar timer for macOS.",nf4jh0,Reddit - r/Python
+85,Embedded Python: Build a Game on the BBC micro:bit – Real Python,gxsb8v,Reddit - r/Python
+86,I created a GUI that collates various interests of mine in one handy place,i4x5bw,Reddit - r/Python
+87,White Cuts Across Black Background - an effect achieved through good use of the Python Image Library,gizm2t,Reddit - r/Python
+88,"With my limited knowledge in Python, I wrote a simple script to control my motorized microscope from a keyboard. All instructions are open-source. Just wanted to share with this community for possible comments and suggestions for further improvements.",arp3z9,Reddit - r/Python
+89,Lil cheatsheet,l1jdcj,Reddit - r/Python
+90,"My course is called Python NumPy For Your Grandma - So easy your grandma could learn it. Here's the course outline.
 
 1. **Introduction**  
   [1.1 Introduction](https://www.gormanalysis.com/blog/python-numpy-for-your-grandma-1-1-introduction)  
@@ -224,8 +225,8 @@ Also, stay posted for my next course, Python Pandas For Your Grandpa.
 2.  *Please* stay posted for my next course Python Pandas For Your Grandpa. It's nearly finished after months of work, and the production quality is much better.
 
 **UPDATE 2**  
-My [course on Pandas](https://www.gormanalysis.com/blog/python-pandas-for-your-grandpa/) has been released!  ([View on YouTube](https://www.youtube.com/playlist?list=PL9oKUrtC4VP7ry0um1QOUUfJBXKnkf-dA))",l1jdcj,Reddit - r/Python
-90,"Howdy, y'all. I'm Al Sweigart (rhymes with ""why dirt""), author of ""Automate the Boring Stuff with Python"" and several other programming books. I release all of my books under a Creative Commons license, so you can read them for free on my website at https://inventwithpython.com
+My [course on Pandas](https://www.gormanalysis.com/blog/python-pandas-for-your-grandpa/) has been released!  ([View on YouTube](https://www.youtube.com/playlist?list=PL9oKUrtC4VP7ry0um1QOUUfJBXKnkf-dA))",otbvoj,Reddit - r/Python
+91,"Howdy, y'all. I'm Al Sweigart (rhymes with ""why dirt""), author of ""Automate the Boring Stuff with Python"" and several other programming books. I release all of my books under a Creative Commons license, so you can read them for free on my website at https://inventwithpython.com
 
 My latest books are [The Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/) and [Beyond the Basic Stuff with Python](https://inventwithpython.com/beyond/). I'm currently working on a book about recursion (the recursion jokes get funnier every time I hear them) which should be available in 2022. The ideas for this book grew into [a 2018 North Bay Python talk I gave](https://www.youtube.com/watch?v=AfBqVVKg4GE).
 
@@ -245,39 +246,39 @@ EDIT 2: Oh yeah, I forgot to mention I'm also creating a 56-video Udemy course f
 
 EDIT (7:00pm) Heh, wow another two hours flew by. I'm going to drive home and then maybe answer a few more. Thanks again, everyone!
 
-EDIT (10:30pm) Calling it a night. I'll probably answer a few more tomorrow, but I have to get back to work. Thanks again, everyone! Oh, and if you can help me out, writing an (honest) Amazon review for my books (especially the latest two) or even just sharing the links to the free online copies would be really help me get them in front of more people.",otbvoj,Reddit - r/Python
-91,"Spotlightify - a overlay controller for spotify, allowing you to quickly control your music without distraction. Please let me know if you are interested in this application as I am thinking of making it public on my github in the near future (once more features have been developed), thanks!",go6no5,Reddit - r/Python
-92,I wrote a python script that I'm running on my phone to play a word game called Ruzzle.,ejnnbc,Reddit - r/Python
-93,"Started learning python today, Screw 'Hello World' , I'll start with 'Hello There'",hl2ho5,Reddit - r/Python
-94,xkcd: Python Environment,8fztrr,Reddit - r/Python
-95,"Work laptop doesn't allow minesweeper? I'm gonna build my own minesweeper, with blackjack, and hookers! In fact, forget the hookers!",es8dai,Reddit - r/Python
-96,"The project is finally done, thanks a lot for all of the support you guys gave me. (Wireless media controller v1.2) #rifi",fbyvl5,Reddit - r/Python
-97,"I created a video about Neural Networks that is specifically aimed at Python developers! If you understand the Code, you understand how to create a Neural Network from Scratch! The video took me 200h to create and is fully animated! Hope it helps you guys :)",l8jvev,Reddit - r/Python
-98,I created a python program for interactive batch cropping,dqminb,Reddit - r/Python
-99,Wrote a script that downloads r/wallpaper's hottest 100 images and cycles through them as a wallpaper!,hei6kg,Reddit - r/Python
-100,"My startup failed, so I open sourced the code. I hope someone finds it useful.",l4kpou,Reddit - r/Python
-101,"Happy birthday, Python, you're 30 years old today: Easy to learn, and the right tool at the right time",lo6ws0,Reddit - r/Python
-102,I made a Sudoku.com solver using Selenium,fgdbxb,Reddit - r/Python
-103,"[https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf](https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf)
+EDIT (10:30pm) Calling it a night. I'll probably answer a few more tomorrow, but I have to get back to work. Thanks again, everyone! Oh, and if you can help me out, writing an (honest) Amazon review for my books (especially the latest two) or even just sharing the links to the free online copies would be really help me get them in front of more people.",go6no5,Reddit - r/Python
+92,"Spotlightify - a overlay controller for spotify, allowing you to quickly control your music without distraction. Please let me know if you are interested in this application as I am thinking of making it public on my github in the near future (once more features have been developed), thanks!",ejnnbc,Reddit - r/Python
+93,I wrote a python script that I'm running on my phone to play a word game called Ruzzle.,hl2ho5,Reddit - r/Python
+94,"Started learning python today, Screw 'Hello World' , I'll start with 'Hello There'",8fztrr,Reddit - r/Python
+95,xkcd: Python Environment,es8dai,Reddit - r/Python
+96,"Work laptop doesn't allow minesweeper? I'm gonna build my own minesweeper, with blackjack, and hookers! In fact, forget the hookers!",fbyvl5,Reddit - r/Python
+97,"The project is finally done, thanks a lot for all of the support you guys gave me. (Wireless media controller v1.2) #rifi",l8jvev,Reddit - r/Python
+98,"I created a video about Neural Networks that is specifically aimed at Python developers! If you understand the Code, you understand how to create a Neural Network from Scratch! The video took me 200h to create and is fully animated! Hope it helps you guys :)",dqminb,Reddit - r/Python
+99,I created a python program for interactive batch cropping,hei6kg,Reddit - r/Python
+100,Wrote a script that downloads r/wallpaper's hottest 100 images and cycles through them as a wallpaper!,l4kpou,Reddit - r/Python
+101,"My startup failed, so I open sourced the code. I hope someone finds it useful.",lo6ws0,Reddit - r/Python
+102,"Happy birthday, Python, you're 30 years old today: Easy to learn, and the right tool at the right time",fgdbxb,Reddit - r/Python
+103,I made a Sudoku.com solver using Selenium,f2jda1,Reddit - r/Python
+104,"[https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf](https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf)
 
 &amp;#x200B;
 
-One of the best all-in-one resources I've ever found. It starts from basics and goes all the way up to an advanced level. I would check this out, even if you're not a beginner.",f2jda1,Reddit - r/Python
-104,"I use it to generate endless random basic math questions for him to practice =)
+One of the best all-in-one resources I've ever found. It starts from basics and goes all the way up to an advanced level. I would check this out, even if you're not a beginner.",ja5y2m,Reddit - r/Python
+105,"I use it to generate endless random basic math questions for him to practice =)
 
-[https://github.com/januschung/math-worksheet-generator](https://github.com/januschung/math-worksheet-generator)",ja5y2m,Reddit - r/Python
-105,"After having this idea a while back and seeing yesterday's post with arduino controlled auto ambient lighting, I creating my own version with python!",gmgezg,Reddit - r/Python
-106,I wrote a program that doodles things in MS Paint!,ebjgvl,Reddit - r/Python
-107,"I spent the whole day finding a bug yesterday, couldn't find it at the end of the day and got a headache due to stress. Woke up today and found the bug 15 mins after.
+[https://github.com/januschung/math-worksheet-generator](https://github.com/januschung/math-worksheet-generator)",gmgezg,Reddit - r/Python
+106,"After having this idea a while back and seeing yesterday's post with arduino controlled auto ambient lighting, I creating my own version with python!",ebjgvl,Reddit - r/Python
+107,I wrote a program that doodles things in MS Paint!,koat5n,Reddit - r/Python
+108,"I spent the whole day finding a bug yesterday, couldn't find it at the end of the day and got a headache due to stress. Woke up today and found the bug 15 mins after.
 
 Worrying about the delay in the project fogged my mind and I couldn't think logically, blind to different possibilities.
 
 Taking a break and having a clear mind is very important. This has happened to me a couple of times so decided to post this here today to remember not to repeat this ever lol.
 
 
-Edit: Thanks for the award kind stranger. I thought this was more of a personal problem, reading all the comments I'm happy to know I'm not alone. I feel more normal now 🙂.",koat5n,Reddit - r/Python
-108,When Python Meets Fourier Transform,dhs74f,Reddit - r/Python
-109,"I am a contributor to Open-Source software([Jina](https://github.com/jina-ai/jina) \- an AI search framework) and I am annoyed with how some people make fun of the sheer hard work of open-source developers.
+Edit: Thanks for the award kind stranger. I thought this was more of a personal problem, reading all the comments I'm happy to know I'm not alone. I feel more normal now 🙂.",dhs74f,Reddit - r/Python
+109,When Python Meets Fourier Transform,npkm6o,Reddit - r/Python
+110,"I am a contributor to Open-Source software([Jina](https://github.com/jina-ai/jina) \- an AI search framework) and I am annoyed with how some people make fun of the sheer hard work of open-source developers.
 
 For the last 1 yr, we had made our contributors team meetings public(everyone could listen and participate during the meeting). And this is what happened in our last meeting - **While we were sharing news about upcoming Jina 2.0 release in the zoom meeting, some loud racist music starts playing automatically and someone starts drawing a d\*ck on the screen.**
 
@@ -306,15 +307,15 @@ Open-source exists because of some good people out there like you/me who care ab
 
 I wanted to vent out my negative experiences and wanted to say a big \*\*Thank you\*\* to you all open-source people, thanks to many(1.6k) contributors who made it possible for us to release \[Jina 2.0\]([https://github.com/jina-ai/jina/](https://github.com/jina-ai/jina/)) 🤗.
 
-I'd want to know your opinion, how do you deal with such unexpected events and how do you keep yourself motivated as an open-source developer?",npkm6o,Reddit - r/Python
-110,Made something similar to Apple's Animoji™ using Python,b3oyhl,Reddit - r/Python
-111,I made a recursive maze solver in Python,f8bn5w,Reddit - r/Python
-112,Python swallows Java to become second-most popular programming language,jtdi2e,Reddit - r/Python
-113,Every article about python decorators be like...,714kww,Reddit - r/Python
-114,I made a python script to download subtitles for your movies...,g10v5z,Reddit - r/Python
-115,I'll be damned,exiubj,Reddit - r/Python
-116,"BrachioGraph, an ultra-cheap Python-powered drawing machine",dvw09b,Reddit - r/Python
-117,"In my spare time I like to go through financial data to understand what kind of companies exist, how sectors and industries evolve and to test theoretical frameworks. However, I found that it required a lot of effort to figure out which companies belong to which industry and I often ran into paywalls that blocked me from accessing the exact data I was looking for. Platforms like Bloomberg offer such services but at ridiculous prices (up to $24.000 a year). This can make investment decisions for the retail investor rather difficult especially if you don't want to follow 'the herd'. **I wanted to change that.**
+I'd want to know your opinion, how do you deal with such unexpected events and how do you keep yourself motivated as an open-source developer?",b3oyhl,Reddit - r/Python
+111,Made something similar to Apple's Animoji™ using Python,f8bn5w,Reddit - r/Python
+112,I made a recursive maze solver in Python,jtdi2e,Reddit - r/Python
+113,Python swallows Java to become second-most popular programming language,714kww,Reddit - r/Python
+114,Every article about python decorators be like...,g10v5z,Reddit - r/Python
+115,I made a python script to download subtitles for your movies...,exiubj,Reddit - r/Python
+116,I'll be damned,dvw09b,Reddit - r/Python
+117,"BrachioGraph, an ultra-cheap Python-powered drawing machine",lcexoa,Reddit - r/Python
+118,"In my spare time I like to go through financial data to understand what kind of companies exist, how sectors and industries evolve and to test theoretical frameworks. However, I found that it required a lot of effort to figure out which companies belong to which industry and I often ran into paywalls that blocked me from accessing the exact data I was looking for. Platforms like Bloomberg offer such services but at ridiculous prices (up to $24.000 a year). This can make investment decisions for the retail investor rather difficult especially if you don't want to follow 'the herd'. **I wanted to change that.**
 
 **Insert the** [**FinanceDatabase**](https://github.com/JerBouma/FinanceDatabase)**.** A database of over 180.000 symbols (80k+ companies, 15k+ ETFs, 30k+ Funds, 3k+ Cryptocurrencies and more) that is fully categorised per country, industry, sector, category and more. It features a 'Searcher' package (***pip install FinanceDatabase***) that has a user-friendly way of collecting the exact data you want (downloaded straight from the repository). For example, the following code returns all (listed) airlines in the United States (check [Examples](https://github.com/JerBouma/FinanceDatabase#Examples) for more info) :
 
@@ -341,12 +342,12 @@ What I explicitly am *not* trying to do is re-invent the wheel (again) of Fundam
 
 I hope this can help some of you out making (better) investment decisions and all feedback (positive and negative) and contribution is much appreciated.
 
-EDIT: Thanks for the rewards and kind words everyone!",lcexoa,Reddit - r/Python
-118,I launched my new website with all my free Python and Machine Learning Tutorials (currently 68).,gpqquf,Reddit - r/Python
-119,I made my handwriting a font on Inkscape and used custom made python script to add random movment (in y axis) for each character. Looks fine or too suspicious?,fofxnx,Reddit - r/Python
-120,I wrote a program on python to show how the number of swearwords differs across each breaking bad episode to see if there was any kind of correlation - turns out there isn't and this was a complete flop,g78ih1,Reddit - r/Python
-121,"A fitting curve that ""boings"" into place (and a digression into spring-mass-dampers, vibration and control theory, and integral transforms)",e1ldoz,Reddit - r/Python
-122,"Today in work a request comes in for 745 headshots that need to be processed to fit 150x150px for an external platform. One team says it'll take them at least a week to do, the other team says they don't want it as it'll take even longer.
+EDIT: Thanks for the rewards and kind words everyone!",gpqquf,Reddit - r/Python
+119,I launched my new website with all my free Python and Machine Learning Tutorials (currently 68).,fofxnx,Reddit - r/Python
+120,I made my handwriting a font on Inkscape and used custom made python script to add random movment (in y axis) for each character. Looks fine or too suspicious?,g78ih1,Reddit - r/Python
+121,I wrote a program on python to show how the number of swearwords differs across each breaking bad episode to see if there was any kind of correlation - turns out there isn't and this was a complete flop,e1ldoz,Reddit - r/Python
+122,"A fitting curve that ""boings"" into place (and a digression into spring-mass-dampers, vibration and control theory, and integral transforms)",mca9u2,Reddit - r/Python
+123,"Today in work a request comes in for 745 headshots that need to be processed to fit 150x150px for an external platform. One team says it'll take them at least a week to do, the other team says they don't want it as it'll take even longer.
 
 ""They need them all black and white! It'll take some time to convert them! They're not even all the same size! UGH this just can't be done in the 2 days they've requested this!!!""
 
@@ -375,15 +376,15 @@ For those wanting to know the code, here it is:
             fn, fext = os.path.splitext(f)
             im.save('Output/{}.jpg'.format(fn))
 
-The images given were either 150x150 already (but in colour) or 120x150. So had to cover all bases with this. If it could be made more efficient, let me know!",mca9u2,Reddit - r/Python
-123,Rolling Shutter Effect demonstrated with Python,dbg4nm,Reddit - r/Python
-124,My first major Python project! Made with 100% python using pygame. Source code and download in comments.,htkddu,Reddit - r/Python
-125,My gravity simulation almost an entire day of work later! Featuring inelastic collisions,bsy603,Reddit - r/Python
-126,Stack overflow traffic to questions about selected python packages,jogwc5,Reddit - r/Python
-127,"I created ""twenny"" – my very first app! It reminds you to give your eyes a break every 20 minutes to prevent eye strain and is located in your menubar. You can download it on GitHub!",gq8254,Reddit - r/Python
-128,Boids - organic motion from 3 simple rules,fpvay3,Reddit - r/Python
-129,A VS Code extension that displays the values of variables while you type,hd6l9t,Reddit - r/Python
-130,"# A new kind of Progress Bar for Python, with some very cool animations!
+The images given were either 150x150 already (but in colour) or 120x150. So had to cover all bases with this. If it could be made more efficient, let me know!",dbg4nm,Reddit - r/Python
+124,Rolling Shutter Effect demonstrated with Python,htkddu,Reddit - r/Python
+125,My first major Python project! Made with 100% python using pygame. Source code and download in comments.,bsy603,Reddit - r/Python
+126,My gravity simulation almost an entire day of work later! Featuring inelastic collisions,jogwc5,Reddit - r/Python
+127,Stack overflow traffic to questions about selected python packages,gq8254,Reddit - r/Python
+128,"I created ""twenny"" – my very first app! It reminds you to give your eyes a break every 20 minutes to prevent eye strain and is located in your menubar. You can download it on GitHub!",fpvay3,Reddit - r/Python
+129,Boids - organic motion from 3 simple rules,hd6l9t,Reddit - r/Python
+130,A VS Code extension that displays the values of variables while you type,kqbo85,Reddit - r/Python
+131,"# A new kind of Progress Bar for Python, with some very cool animations!
 
 I've made a new kind of progress bar for python! With some very cool animations and a smorgasbord of built-in styles!
 
@@ -414,11 +415,11 @@ It also includes cool zero-hassle print and logging hooks, which are always enab
 To use it, just ""pip install alive-progress"" and you're good to go!  
 More details in [https://github.com/rsalmei/alive-progress](https://github.com/rsalmei/alive-progress)
 
-That's it, hope you like it!",kqbo85,Reddit - r/Python
-131,Any love for Python 2.5 on an i486?,priqp7,Reddit - r/Python
-132,Programming + Math + Graphs = Art,kv0u3w,Reddit - r/Python
-133,And so it begins... I’ve decided to start a new hobby and hopefully I can make some use out of it. Wish me luck!,8m9ei8,Reddit - r/Python
-134,"You can find the tool here: [https://github.com/LeviBorodenko/lancer](https://github.com/LeviBorodenko/lancer) (Use with caution!)
+That's it, hope you like it!",priqp7,Reddit - r/Python
+132,Any love for Python 2.5 on an i486?,kv0u3w,Reddit - r/Python
+133,Programming + Math + Graphs = Art,8m9ei8,Reddit - r/Python
+134,And so it begins... I’ve decided to start a new hobby and hopefully I can make some use out of it. Wish me luck!,rra22x,Reddit - r/Python
+135,"You can find the tool here: [https://github.com/LeviBorodenko/lancer](https://github.com/LeviBorodenko/lancer) (Use with caution!)
 
 # Features
 
@@ -459,12 +460,12 @@ After:
     
     
     if __name__ == '__main__':
-        print(""Sum of 1 and 3 is %s"" % quack_Il1Ι1l(1, 3))",rra22x,Reddit - r/Python
-135,Probably the most useless thing that I have ever coded but it’s fun looking at it,c0xcn6,Reddit - r/Python
-136,[OC] Updated version of my recent maze finding algorithm with source code,empp5x,Reddit - r/Python
-137,I found what happens when you change the Mandelbrot Set's power value and animated it with Python,g1xlte,Reddit - r/Python
-138,Made a small Reddit client that runs on a 0.96 inch OLED display with a Raspberry Pi as my first project written in Python,haq3vc,Reddit - r/Python
-139,"Hello all,
+        print(""Sum of 1 and 3 is %s"" % quack_Il1Ι1l(1, 3))",c0xcn6,Reddit - r/Python
+136,Probably the most useless thing that I have ever coded but it’s fun looking at it,empp5x,Reddit - r/Python
+137,[OC] Updated version of my recent maze finding algorithm with source code,g1xlte,Reddit - r/Python
+138,I found what happens when you change the Mandelbrot Set's power value and animated it with Python,haq3vc,Reddit - r/Python
+139,Made a small Reddit client that runs on a 0.96 inch OLED display with a Raspberry Pi as my first project written in Python,jus4vq,Reddit - r/Python
+140,"Hello all,
 
 &amp;#x200B;
 
@@ -594,55 +595,55 @@ There are many more tips that I have but those are the most important ones I can
 
 &amp;#x200B;
 
-Thanks.",jus4vq,Reddit - r/Python
-140,"I configured my terminal to teach me a new word everyday! Every time I open a new terminal window, I have a python script that scrapes dictionary.com and gives me the word of the day. On top of that, I have a motivational quote displayed as well :)",gu9nzq,Reddit - r/Python
-141,I've created a python program that generates photomosaics from any dataset !,faf0zd,Reddit - r/Python
-142,Skribbl.io bot in python (simulate mouse inputs),fnlpkf,Reddit - r/Python
-143,Python Virtual Environments: Extreme Advertising Edition,a7dcnk,Reddit - r/Python
-144,Visualizing Bubble Sort,eluz97,Reddit - r/Python
-145,I teach programming to researchers at the University of Bristol. Due to Coronavirus all our teaching has moved online. I've just uploaded my first recorded session covering pandas 🐼,fx3ex8,Reddit - r/Python
-146,Nice try,ce3a62,Reddit - r/Python
-147,Shared this one on FB and everyone was confused. :D,g9vesj,Reddit - r/Python
-148,Lately I got nothing to do so I decided to work on my school project for next year and I’ve made a program that tracks moving objects in a specific area and sends me a picture of the moving object in the discord,ch7pl2,Reddit - r/Python
-149,"It's still pretty buggy, I threw it together because my holidays are coming to a close.
+Thanks.",gu9nzq,Reddit - r/Python
+141,"I configured my terminal to teach me a new word everyday! Every time I open a new terminal window, I have a python script that scrapes dictionary.com and gives me the word of the day. On top of that, I have a motivational quote displayed as well :)",faf0zd,Reddit - r/Python
+142,I've created a python program that generates photomosaics from any dataset !,fnlpkf,Reddit - r/Python
+143,Skribbl.io bot in python (simulate mouse inputs),a7dcnk,Reddit - r/Python
+144,Python Virtual Environments: Extreme Advertising Edition,eluz97,Reddit - r/Python
+145,Visualizing Bubble Sort,fx3ex8,Reddit - r/Python
+146,I teach programming to researchers at the University of Bristol. Due to Coronavirus all our teaching has moved online. I've just uploaded my first recorded session covering pandas 🐼,ce3a62,Reddit - r/Python
+147,Nice try,g9vesj,Reddit - r/Python
+148,Shared this one on FB and everyone was confused. :D,ch7pl2,Reddit - r/Python
+149,Lately I got nothing to do so I decided to work on my school project for next year and I’ve made a program that tracks moving objects in a specific area and sends me a picture of the moving object in the discord,kz9kh6,Reddit - r/Python
+150,"It's still pretty buggy, I threw it together because my holidays are coming to a close.
 
 Here's an example: https://youtu.be/rvFk8hapDZY
 
-Here's the source code: https://github.com/micah5/ace-attorney-reddit-bot",kz9kh6,Reddit - r/Python
-150,MS considers adding Python as official scripting language for Excel 😍 The change proposal currently has 6400 votes.,g4cf2r,Reddit - r/Python
-151,Program to Convert an Image into Dice. (w/ code),hzuy44,Reddit - r/Python
-152,Currency converter - my first web scraping project :),h0chuy,Reddit - r/Python
-153,This is one of the most interesting outputs of the particle simulation :),dxq4ea,Reddit - r/Python
-154,AI basketball analysis web App and API,ggfwfw,Reddit - r/Python
-155,Very nice 👍,iqer5r,Reddit - r/Python
-156,Double Pendulum made with Processing.py,ci1cg4,Reddit - r/Python
-157,My First Algorithm in Python! A Recursive Maze Solver,du1l1n,Reddit - r/Python
-158,Instagram in Terminal,87ey18,Reddit - r/Python
-159,Really??,7oaay5,Reddit - r/Python
-160,"This morning I decided to learn how to code in Python and after watching a YouTube course on the basics of the language, I coded this all by myself. It took me like 4 or 5 hours. I feel ashamed and super proud at the same time.",gkhjzt,Reddit - r/Python
-161,Circle Evolution v0.1 is now available on PyPI. My first big project as a 16 year old. [Github repo &amp; desc in comments],grglgp,Reddit - r/Python
-162,"6 Months of learning Python, 3 Hours of Rendering, here is my first Mandelbrot Zoom",dv7np3,Reddit - r/Python
-163,Learning python so my wife customized my tumbler.,hsf3ce,Reddit - r/Python
-164,Dijkstra's algorithm now running in linear time on a 90x90 grid,fxpf9l,Reddit - r/Python
-165,"Have some burning questions on advanced Python topics? Use this thread to ask more advanced questions related to Python.
+Here's the source code: https://github.com/micah5/ace-attorney-reddit-bot",g4cf2r,Reddit - r/Python
+151,MS considers adding Python as official scripting language for Excel 😍 The change proposal currently has 6400 votes.,hzuy44,Reddit - r/Python
+152,Program to Convert an Image into Dice. (w/ code),h0chuy,Reddit - r/Python
+153,Currency converter - my first web scraping project :),dxq4ea,Reddit - r/Python
+154,This is one of the most interesting outputs of the particle simulation :),ggfwfw,Reddit - r/Python
+155,AI basketball analysis web App and API,iqer5r,Reddit - r/Python
+156,Very nice 👍,ci1cg4,Reddit - r/Python
+157,Double Pendulum made with Processing.py,du1l1n,Reddit - r/Python
+158,My First Algorithm in Python! A Recursive Maze Solver,87ey18,Reddit - r/Python
+159,Instagram in Terminal,7oaay5,Reddit - r/Python
+160,Really??,gkhjzt,Reddit - r/Python
+161,"This morning I decided to learn how to code in Python and after watching a YouTube course on the basics of the language, I coded this all by myself. It took me like 4 or 5 hours. I feel ashamed and super proud at the same time.",grglgp,Reddit - r/Python
+162,Circle Evolution v0.1 is now available on PyPI. My first big project as a 16 year old. [Github repo &amp; desc in comments],dv7np3,Reddit - r/Python
+163,"6 Months of learning Python, 3 Hours of Rendering, here is my first Mandelbrot Zoom",hsf3ce,Reddit - r/Python
+164,Learning python so my wife customized my tumbler.,fxpf9l,Reddit - r/Python
+165,Dijkstra's algorithm now running in linear time on a 90x90 grid,nevt2r,Reddit - r/Python
+166,"Have some burning questions on advanced Python topics? Use this thread to ask more advanced questions related to Python.
 
 **If your question is a beginner question we hold a beginner Daily Thread tomorrow (Wednesday) where you can ask any question! We may remove questions here and ask you to resubmit tomorrow.**
 
-This thread may be fairly low volume in replies, if you don't receive a response we recommend looking at r/LearnPython or joining the Python Discord server at [https://discord.gg/python](https://discord.gg/python) where you stand a better chance of receiving a response.",nevt2r,Reddit - r/Python
-166,"I created a maze generator, then solved it with Djikstra's algorithm",ean4f7,Reddit - r/Python
-167,"I started my first big project 2 months ago. But since I won't be able to keep working on it this summer, I decided to share it with you guys right now. Here it comes, the physics simulator!",hm4rnb,Reddit - r/Python
-168,I made the rotating circle *illusion* from numberphile's lates video,hbg6dw,Reddit - r/Python
-169,I'm really bored at work,9jnglb,Reddit - r/Python
-170,Fluid simulation in Python,fkk7aa,Reddit - r/Python
-171,"So, like the title says, I made a program using python that gives me infinite storage. More specifically it takes advantage of YouTube's infinite upload limit to use YouTube as a 100% free and unlimited cloud storage solution.
+This thread may be fairly low volume in replies, if you don't receive a response we recommend looking at r/LearnPython or joining the Python Discord server at [https://discord.gg/python](https://discord.gg/python) where you stand a better chance of receiving a response.",ean4f7,Reddit - r/Python
+167,"I created a maze generator, then solved it with Djikstra's algorithm",hm4rnb,Reddit - r/Python
+168,"I started my first big project 2 months ago. But since I won't be able to keep working on it this summer, I decided to share it with you guys right now. Here it comes, the physics simulator!",hbg6dw,Reddit - r/Python
+169,I made the rotating circle *illusion* from numberphile's lates video,9jnglb,Reddit - r/Python
+170,I'm really bored at work,fkk7aa,Reddit - r/Python
+171,Fluid simulation in Python,j620fv,Reddit - r/Python
+172,"So, like the title says, I made a program using python that gives me infinite storage. More specifically it takes advantage of YouTube's infinite upload limit to use YouTube as a 100% free and unlimited cloud storage solution.
 
 Demo video: https://youtu.be/yu_ZIr0q5rU
 
-Source code (definitely still needs more work): https://github.com/AlfredoSequeida/fvid/",j620fv,Reddit - r/Python
-172,When a software developer weds a software developer.,bwukf3,Reddit - r/Python
-173,Python Logo Candy,rgaoy7,Reddit - r/Python
-174,"My first Python program! Changes my desktop background based on the weather, time, and day.",gfkuez,Reddit - r/Python
-175,"-----
+Source code (definitely still needs more work): https://github.com/AlfredoSequeida/fvid/",bwukf3,Reddit - r/Python
+173,When a software developer weds a software developer.,rgaoy7,Reddit - r/Python
+174,Python Logo Candy,gfkuez,Reddit - r/Python
+175,"My first Python program! Changes my desktop background based on the weather, time, and day.",l7u2m3,Reddit - r/Python
+176,"-----
 *Offline cause my broke ass needs the micro-sd:(*
 -----
 
@@ -657,97 +658,12 @@ This post has 2109 Upvotes!
 -----
 It has 234 Downvotes
 -----
-and 299 comments!
------
-
-The 3 top comments are from:
-
-1. u/BimphyRedixler
-
-    |_Upvotes: 450
-
-    |_First word: I
-
-    |_Last word: account
-
-    |_Letters: 41
-
-2. u/[deleted]
-
-    |_Upvotes: 59
-
-    |_First word: [removed]
-
-    |_Last word: [removed]
-
-    |_Letters: 9
-
-3. u/CaminoFr
-
-    |_Upvotes: 105
-
-    |_First word: "",
-
-    |_Last word: None
-
-    |_Letters: 7
-
-4. u/[deleted]
-
-    |_Upvotes: 131
-
-    |_First word: EditingThisToSeeIfICangeTheFirstWordSetting.
-
-    |_Last word: AlsoChangingThisLOL!😂
-
-    |_Letters: 86
-
-5. u/InveitableCactus
-
-    |_Upvotes: 29
-
-    |_First word: ""
-
-    |_Last word: ""
-
-    |_Letters: 32
-
-Note: Sometimes theres a Person with lesser upvotes on place 1, If people are disliking comments, the reddit api does weird things!
-
-Second note: The Up/Downvotes and comments are NOT accurate!
-
-
-
-Last update: 2021-02-06 20:11:24 CET
-
-total updates: 21319
-
-
-Latest comment by: u/_elbob
------
-First word: testing
------
-Last word: code
------
-Letters: 16
-
-
-Random Comment: Left to right unicode charecter
-
-by: u/Valtsu0
-
-
-This idea was inspired by u/Krukerfluk
-Krukerfluk's post: https://www.reddit.com/r/Python/comments/hoolsm/this_post_has/
-
-My code on Github: https://github.com/Jonathan357611/Reddit-comment-statistics
-
-This program is hosted on a Raspberry pi zero!",l7u2m3,Reddit - r/Python
-176,Dear python2 user,bun5px,Reddit - r/Python
-177,Maze Solver Visualizer - Dijkstra's algorithm (asynchronous neighbours),fsuibu,Reddit - r/Python
-178,Comment any project ideas beginner or advanced in this thread for others to give a try! If you complete one make sure to reply to the comment with how you found it and attach some source code!,ne1kkx,Reddit - r/Python
-179,So true!,ap4hyq,Reddit - r/Python
-180,"**tl;dr** Resources (exercises, projects, debugging, testing, cheatsheets, books) to help take the next steps after learning Python basics. I'd welcome feedback and suggestions.
+and ",bun5px,Reddit - r/Python
+177,Dear python2 user,fsuibu,Reddit - r/Python
+178,Maze Solver Visualizer - Dijkstra's algorithm (asynchronous neighbours),ne1kkx,Reddit - r/Python
+179,Comment any project ideas beginner or advanced in this thread for others to give a try! If you complete one make sure to reply to the comment with how you found it and attach some source code!,ap4hyq,Reddit - r/Python
+180,So true!,i0m2sy,Reddit - r/Python
+181,"**tl;dr** Resources (exercises, projects, debugging, testing, cheatsheets, books) to help take the next steps after learning Python basics. I'd welcome feedback and suggestions.
 
 ---
 
@@ -835,8 +751,8 @@ I hope these resources will help you take that crucial next step and continue yo
 
 ---
 
-This content is from my [blog post](https://learnbyexample.github.io/curated-resources/python-intermediate/)",i0m2sy,Reddit - r/Python
-181,"The course is called [Python Pandas For Your Grandpa](https://www.gormanalysis.com/blog/python-pandas-for-your-grandpa/) - So easy your grandpa could learn it. (It's the successor to [Python NumPy For Your Grandma](https://www.gormanalysis.com/blog/python-numpy-for-your-grandma/).)
+This content is from my [blog post](https://learnbyexample.github.io/curated-resources/python-intermediate/)",lain0r,Reddit - r/Python
+182,"The course is called [Python Pandas For Your Grandpa](https://www.gormanalysis.com/blog/python-pandas-for-your-grandpa/) - So easy your grandpa could learn it. (It's the successor to [Python NumPy For Your Grandma](https://www.gormanalysis.com/blog/python-numpy-for-your-grandma/).)
 
 ## Course Curriculum
 1. **Introduction**  
@@ -892,15 +808,15 @@ Alternatively, view my [YouTube playlist for the course here](https://www.youtub
 
 If you find this useful, please consider liking, subscribing, and sharing. It means a lot. You wouldn't believe how much effort went into creating this course. 
 
-Thanks!",lain0r,Reddit - r/Python
-182,I made a script that turns images into ASCII art,ehcyf6,Reddit - r/Python
-183,"Finally finished a Qt-based program to control the telescope at our observatory. The blue mark shows the telescope pointing, the purple one -- selected object",fy2xya,Reddit - r/Python
-184,How much do I love Python?,e1508l,Reddit - r/Python
-185,"Do you know what a 5D cube is like? Let's rotate it in 5D, project to 3d and render it in 2D! (Things you can do with Python and POV-Ray)",gx67cu,Reddit - r/Python
-186,txtai: AI-powered engine for contextual search and extractive question-answering,i8ygwi,Reddit - r/Python
-187,"From the Netflix series ""Family Business"". I rate it 10/10 for realism",c9xxes,Reddit - r/Python
-188,Using python to map the traffic that came to my server after my post hit the front page.,b9xcit,Reddit - r/Python
-189,"PandasGUI is an open source GUI I made for doing EDA in Pandas. I use this a lot for my own data analysis and hope it will help others too!
+Thanks!",ehcyf6,Reddit - r/Python
+183,I made a script that turns images into ASCII art,fy2xya,Reddit - r/Python
+184,"Finally finished a Qt-based program to control the telescope at our observatory. The blue mark shows the telescope pointing, the purple one -- selected object",e1508l,Reddit - r/Python
+185,How much do I love Python?,gx67cu,Reddit - r/Python
+186,"Do you know what a 5D cube is like? Let's rotate it in 5D, project to 3d and render it in 2D! (Things you can do with Python and POV-Ray)",i8ygwi,Reddit - r/Python
+187,txtai: AI-powered engine for contextual search and extractive question-answering,c9xxes,Reddit - r/Python
+188,"From the Netflix series ""Family Business"". I rate it 10/10 for realism",b9xcit,Reddit - r/Python
+189,Using python to map the traffic that came to my server after my post hit the front page.,jbna83,Reddit - r/Python
+190,"PandasGUI is an open source GUI I made for doing EDA in Pandas. I use this a lot for my own data analysis and hope it will help others too!
 
 I was inspired to make this after finding that applications like Excel, Tableau and JMP were often quicker than Python for ad hoc viewing, plotting and reshaping. This project aims to make basic EDA easy but also allows you to easily move DataFrames in memory between the GUI and IPython so you still have the full power of Pandas. It's made with PyQt5 and renders in a standalone window compatible with any IDE.
 
@@ -936,8 +852,8 @@ I was inspired to make this after finding that applications like Excel, Tableau 
 * Interactive plotting
 * Statistics
 * Drag &amp; drop import/export
-* [more...](https://github.com/adamerose/pandasgui/issues/27)",jbna83,Reddit - r/Python
-190,"Spent 5 hours coding for what could have been hundreds of hours of work. I can't believe I actually did it. Lol
+* [more...](https://github.com/adamerose/pandasgui/issues/27)",j1lk03,Reddit - r/Python
+191,"Spent 5 hours coding for what could have been hundreds of hours of work. I can't believe I actually did it. Lol
 
 Of course I did it with the help of my google-fu but the fact that I was able to do it is such a great feeling of accomplishment. Received a ""Great Work!"" message from my boss too.
 
@@ -958,14 +874,14 @@ I appended the csv output names with the server name to make them distinct after
 
 So instead of doing that manual comparison for hundreds of hours, I was able to do it in 5 hours of coding and now runs for 30 second per database then voila, instant results. 
 
-I'm so proud of this not gonna lie.",j1lk03,Reddit - r/Python
-191,Here is an absolute Beginners Tutorial that can help you guys to get started with Machine learning. All you need is some basic knowledge of Python. You will have created two ML models at the end of this tutorial and also know the working of some ML algorithms.,i73sy4,Reddit - r/Python
-192,"Matplotlib can create plots in the xkcd art style, so you can create plots that look hand drawn.",dkhp09,Reddit - r/Python
-193,This website has a searchable database of python modules shown as collapsible trees,f04cjn,Reddit - r/Python
-194,We are not alone!,a58rmr,Reddit - r/Python
-195,My students challenged me to write the smallest graphical user interface that includes actual user interaction. Can it be any smaller than this?,jwgj0v,Reddit - r/Python
-196,Generating Geometric Birds,eqir9x,Reddit - r/Python
-197,"I work in an industry that is mainly manual work (think carpentry or similar). No-one going through the trade school learns anything on computers beyond making graphs in excel. 
+I'm so proud of this not gonna lie.",i73sy4,Reddit - r/Python
+192,Here is an absolute Beginners Tutorial that can help you guys to get started with Machine learning. All you need is some basic knowledge of Python. You will have created two ML models at the end of this tutorial and also know the working of some ML algorithms.,dkhp09,Reddit - r/Python
+193,"Matplotlib can create plots in the xkcd art style, so you can create plots that look hand drawn.",f04cjn,Reddit - r/Python
+194,This website has a searchable database of python modules shown as collapsible trees,a58rmr,Reddit - r/Python
+195,We are not alone!,jwgj0v,Reddit - r/Python
+196,My students challenged me to write the smallest graphical user interface that includes actual user interaction. Can it be any smaller than this?,eqir9x,Reddit - r/Python
+197,Generating Geometric Birds,l1ynlz,Reddit - r/Python
+198,"I work in an industry that is mainly manual work (think carpentry or similar). No-one going through the trade school learns anything on computers beyond making graphs in excel. 
 
 I however always have had some interest in programming, so i took some free course a while back and try to find areas of my life where i can automate the boring stuff. I have very limited knowledge of any of the advanced functions, but i understand some of the basic logic.
 
@@ -977,12 +893,12 @@ They actually believe I performed black magic.
 
 Thank you Python for letting me look like an invaluable resource today ;)
 
-[EDIT] thanks for all the awards! Happy my post inspired the discussion and the feeelz. Much love 💕",l1ynlz,Reddit - r/Python
-198,"I made this robust Instagram Bot that checks who’s not following you back, mass follows &amp; unfollows people on your behalf at a safe rate for organic growth. This Bot imitates a human-like behavior by randomizing time between actions. Check comments.",gd8cze,Reddit - r/Python
-199,Create splash pages in less than 20 lines of python for free. Splashgen is an open source project,ngbiwa,Reddit - r/Python
-200,I dislike Tkinter so I made a Drag-and-Drop Gui builder to make it less painful.,da8qdy,Reddit - r/Python
-201,I made a script that uses the mouse and keyboard to scan a grayscale image and replicates it in ms paint,cix5ek,Reddit - r/Python
-202," Learn Python, ethical hacking, web development and more with these 9 FREE Udemy courses! Happy new years! 😀
+[EDIT] thanks for all the awards! Happy my post inspired the discussion and the feeelz. Much love 💕",gd8cze,Reddit - r/Python
+199,"I made this robust Instagram Bot that checks who’s not following you back, mass follows &amp; unfollows people on your behalf at a safe rate for organic growth. This Bot imitates a human-like behavior by randomizing time between actions. Check comments.",ngbiwa,Reddit - r/Python
+200,Create splash pages in less than 20 lines of python for free. Splashgen is an open source project,da8qdy,Reddit - r/Python
+201,I dislike Tkinter so I made a Drag-and-Drop Gui builder to make it less painful.,cix5ek,Reddit - r/Python
+202,I made a script that uses the mouse and keyboard to scan a grayscale image and replicates it in ms paint,kouixi,Reddit - r/Python
+203," Learn Python, ethical hacking, web development and more with these 9 FREE Udemy courses! Happy new years! 😀
 
 1. https://www.udemy.com/course/ethical-hacking-kali-linux/?couponCode=HAPPYNEWYEAR
 2. https://www.udemy.com/course/ethical-hacking-python/?couponCode=HAPPYNEWYEAR
@@ -992,11 +908,11 @@ Thank you Python for letting me look like an invaluable resource today ;)
 6. https://www.udemy.com/course/linux-system-admin/?couponCode=HAPPYNEWYEAR
 7. https://www.udemy.com/course/python3-for-beginners/?couponCode=HAPPYNEWYEAR
 8. https://www.udemy.com/course/google-chrome-extension/?couponCode=HAPPYNEWYEAR
-9. https://www.udemy.com/course/ethical-hacking-professional/?couponCode=HAPPYNEWYEAR",kouixi,Reddit - r/Python
-203,Python in one?,ac3oj4,Reddit - r/Python
-204,MIT offers free online course in Computer Programming using Python,nefzy6,Reddit - r/Python
-205,I made an Instagram Bot that downloads any video post you send to him and sends it back to you as mp4. Source Code will follow later https://instagram.com/instaadownload,ep8h1m,Reddit - r/Python
-206,"If anyone wonders what the most suspect trading has been since I started actively tracking it, it was [this interesting behavior](https://www.reddit.com/r/dataisbeautiful/comments/gwocvt/sen_richard_burr_stock_transactions_alongside_the/) by Sen. Richard Burr near the start of this year.
+9. https://www.udemy.com/course/ethical-hacking-professional/?couponCode=HAPPYNEWYEAR",ac3oj4,Reddit - r/Python
+204,Python in one?,nefzy6,Reddit - r/Python
+205,MIT offers free online course in Computer Programming using Python,ep8h1m,Reddit - r/Python
+206,I made an Instagram Bot that downloads any video post you send to him and sends it back to you as mp4. Source Code will follow later https://instagram.com/instaadownload,kplhhf,Reddit - r/Python
+207,"If anyone wonders what the most suspect trading has been since I started actively tracking it, it was [this interesting behavior](https://www.reddit.com/r/dataisbeautiful/comments/gwocvt/sen_richard_burr_stock_transactions_alongside_the/) by Sen. Richard Burr near the start of this year.
 
 I recently built an [API](https://api.quiverquant.com) allowing access to some of the datasets I've collected (which includes stuff like wallstreetbets discussion, wikipedia page views, and other alternative data) and today I finished building a [Python package](https://pypi.org/project/quiverquant/) that makes it super easy to get the data into a clean format in a Pandas dataframe.
 
@@ -1004,18 +920,18 @@ I recently built an [API](https://api.quiverquant.com) allowing access to some o
 
 [Here’s a link](https://www.quiverquant.com/sources/senatetrading) to the dashboard I built tracking senate trading and [here’s a link](https://www.quiverquant.com/sources/housetrading) to the dashboard I built tracking trading by the house of congress.
 
-This community was very helpful when I was first getting started with the language,  and I'd love to answer any questions you have about this project.",kplhhf,Reddit - r/Python
-207,Guido van Rossum joins Microsoft,jsyf3c,Reddit - r/Python
-208,I made a gravity simulation https://github.com/phgilde/gravity_simulation,eorvjg,Reddit - r/Python
-209,I finished my Map Stylizer program! Repo in the comments,hil4qd,Reddit - r/Python
-210,I made this with Python. So Proud.,9oqlvl,Reddit - r/Python
-211,Matplotlib 3D bar plots,fvcvfw,Reddit - r/Python
-212,I made a Python Node editing IDE and it has saved me hours in development time and made my code ridiculously reusable,djk4vm,Reddit - r/Python
-213,My simulation of gravity with 1000 particles. PC took a couple of hours to process!,bu4shw,Reddit - r/Python
-214,"Concept Art: what might python look like in Japanese, without any English characters?",hp7uqe,Reddit - r/Python
-215,He's a Parsertongue.,5z1bsn,Reddit - r/Python
-216,So i turned old processor into keychain. What do you guys think about it?,cl1fad,Reddit - r/Python
-217,"Python 3.8 added an `=` specifier to `f-strings`. An `f-string` such as `f'{expr=}'` will expand to the text of the expression, an equal sign, then the representation of the evaluated expression. 
+This community was very helpful when I was first getting started with the language,  and I'd love to answer any questions you have about this project.",jsyf3c,Reddit - r/Python
+208,Guido van Rossum joins Microsoft,eorvjg,Reddit - r/Python
+209,I made a gravity simulation https://github.com/phgilde/gravity_simulation,hil4qd,Reddit - r/Python
+210,I finished my Map Stylizer program! Repo in the comments,9oqlvl,Reddit - r/Python
+211,I made this with Python. So Proud.,fvcvfw,Reddit - r/Python
+212,Matplotlib 3D bar plots,djk4vm,Reddit - r/Python
+213,I made a Python Node editing IDE and it has saved me hours in development time and made my code ridiculously reusable,bu4shw,Reddit - r/Python
+214,My simulation of gravity with 1000 particles. PC took a couple of hours to process!,hp7uqe,Reddit - r/Python
+215,"Concept Art: what might python look like in Japanese, without any English characters?",5z1bsn,Reddit - r/Python
+216,He's a Parsertongue.,cl1fad,Reddit - r/Python
+217,So i turned old processor into keychain. What do you guys think about it?,igq1pg,Reddit - r/Python
+218,"Python 3.8 added an `=` specifier to `f-strings`. An `f-string` such as `f'{expr=}'` will expand to the text of the expression, an equal sign, then the representation of the evaluated expression. 
 
 **Examples:**
 
@@ -1053,11 +969,11 @@ input:
 
 output:
 
-    theta=30  cos(radians(theta))=0.866",igq1pg,Reddit - r/Python
-218,"I made this clock using python and as GUI html, css, JS",g6tiih,Reddit - r/Python
-219,I made a webcam to ascii converter with opencv,bvekft,Reddit - r/Python
-220,This beziez curve i've made,hi5s8f,Reddit - r/Python
-221,"Back in 2015, it started as a university project. But I’ve kept working on it, and others have started contributing as well over the years. Today we thought it was time to officially release PyBoy v1.0.0 on PyPi and GitHub!
+    theta=30  cos(radians(theta))=0.866",g6tiih,Reddit - r/Python
+219,"I made this clock using python and as GUI html, css, JS",bvekft,Reddit - r/Python
+220,I made a webcam to ascii converter with opencv,hi5s8f,Reddit - r/Python
+221,This beziez curve i've made,g484d4,Reddit - r/Python
+222,"Back in 2015, it started as a university project. But I’ve kept working on it, and others have started contributing as well over the years. Today we thought it was time to officially release PyBoy v1.0.0 on PyPi and GitHub!
 
 [https://github.com/Baekalfen/PyBoy](https://github.com/Baekalfen/PyBoy)
 
@@ -1093,19 +1009,19 @@ https://reddit.com/link/g484d4/video/zofcwc78bst41/player
 
 We’d love to hear your feedback, and see the projects you wish to use PyBoy for! We will do our best to make it happen.
 
-Please give any feedback in the comments below, on our Discord server or create issues/pull-requests on GitHub if you wish.",g484d4,Reddit - r/Python
-222,"Update! As promised, I made a website for the writing synthesis algorithm I wrote, It's fairly easy to use (Massively better than using the scripts itself). I hope it helps some of you to get your assignments done. Do try it out! Currently hosted on https://3c160834.ngrok.io (Link expires in 8 hrs)",g6apwp,Reddit - r/Python
-223,Understand your data with a few lines of code in seconds using DataPrep.eda,hlqnim,Reddit - r/Python
-224,I made c++-style printing in Python :P,duyjs7,Reddit - r/Python
-225,"Using only Python, I made a web dashboard to follow the coronavirus situation in Brazil",hjxqxr,Reddit - r/Python
-226,"Six months into Python and Data science, my first Dashboard Web App with covid19 data using python only",g5ymoy,Reddit - r/Python
-227,I made this script to find the optimal person to be traded for camels,fctk6e,Reddit - r/Python
-228,I wrote a script that creates a password wordlist based on the information you provide about the person.,g3pjcs,Reddit - r/Python
-229,It's just so comfy.,j6xdak,Reddit - r/Python
-230,I was able to install and use Jupyter Notebook on my Android smartphone! (Through the terminal and without using root access),hhe1eb,Reddit - r/Python
-231,My school's business analytics course is taught in python. This is their textbook!,cxi7nd,Reddit - r/Python
-232,Using Python to find a prime number that looks like the python logo (or any other image) from far away [OC],c8s5ym,Reddit - r/Python
-233,"After realizing that I spent far too much time looking things up while coding, I decided to solve the problem and created this...
+Please give any feedback in the comments below, on our Discord server or create issues/pull-requests on GitHub if you wish.",g6apwp,Reddit - r/Python
+223,"Update! As promised, I made a website for the writing synthesis algorithm I wrote, It's fairly easy to use (Massively better than using the scripts itself). I hope it helps some of you to get your assignments done. Do try it out! Currently hosted on https://3c160834.ngrok.io (Link expires in 8 hrs)",hlqnim,Reddit - r/Python
+224,Understand your data with a few lines of code in seconds using DataPrep.eda,duyjs7,Reddit - r/Python
+225,I made c++-style printing in Python :P,hjxqxr,Reddit - r/Python
+226,"Using only Python, I made a web dashboard to follow the coronavirus situation in Brazil",g5ymoy,Reddit - r/Python
+227,"Six months into Python and Data science, my first Dashboard Web App with covid19 data using python only",fctk6e,Reddit - r/Python
+228,I made this script to find the optimal person to be traded for camels,g3pjcs,Reddit - r/Python
+229,I wrote a script that creates a password wordlist based on the information you provide about the person.,j6xdak,Reddit - r/Python
+230,It's just so comfy.,hhe1eb,Reddit - r/Python
+231,I was able to install and use Jupyter Notebook on my Android smartphone! (Through the terminal and without using root access),cxi7nd,Reddit - r/Python
+232,My school's business analytics course is taught in python. This is their textbook!,c8s5ym,Reddit - r/Python
+233,Using Python to find a prime number that looks like the python logo (or any other image) from far away [OC],loxpv6,Reddit - r/Python
+234,"After realizing that I spent far too much time looking things up while coding, I decided to solve the problem and created this...
 
 The Python SpeedSheet: [https://speedsheet.io/s/python](https://speedsheet.io/s/python)
 
@@ -1123,16 +1039,16 @@ Try it out and let me know what you think.
 
 TLDR:
 
-This is an interactive cheat sheet for core Python.",loxpv6,Reddit - r/Python
-234,My 3D Shooter game using only pygame!,hwq8zs,Reddit - r/Python
-235,I wrote a little python package to render images as continuous lines with varying thicknesses using matplotlib,en884v,Reddit - r/Python
-236,I made a random maze generator,f17mfh,Reddit - r/Python
-237,I created the first cross-platform Python library to create native context menus!,gtzk7v,Reddit - r/Python
-238,"r/madeinpython is a subreddit specifically for what you want; posting your projects. No one wants to see them here. This subreddit is genuinely one of the lowest quality programming subreddits on the site because of the amount of beginner project showcases.
+This is an interactive cheat sheet for core Python.",hwq8zs,Reddit - r/Python
+235,My 3D Shooter game using only pygame!,en884v,Reddit - r/Python
+236,I wrote a little python package to render images as continuous lines with varying thicknesses using matplotlib,f17mfh,Reddit - r/Python
+237,I made a random maze generator,gtzk7v,Reddit - r/Python
+238,I created the first cross-platform Python library to create native context menus!,i5r1es,Reddit - r/Python
+239,"r/madeinpython is a subreddit specifically for what you want; posting your projects. No one wants to see them here. This subreddit is genuinely one of the lowest quality programming subreddits on the site because of the amount of beginner project showcases.
 
-r/learnpython is also much more appropriate than here. r/Python should be a place to discuss Python, post things about Python, not beginner projects.",i5r1es,Reddit - r/Python
-239,"I used reinforcement learning with python to solve Numberphile's ""cat and mouse"" game!",cz50wq,Reddit - r/Python
-240,"First off, Python is absolutely insane, not in a bad way, mind you, but it's just crazy to me. It's amazing and kind of confusing, but crazy none the less.
+r/learnpython is also much more appropriate than here. r/Python should be a place to discuss Python, post things about Python, not beginner projects.",cz50wq,Reddit - r/Python
+240,"I used reinforcement learning with python to solve Numberphile's ""cat and mouse"" game!",gc691l,Reddit - r/Python
+241,"First off, Python is absolutely insane, not in a bad way, mind you, but it's just crazy to me. It's amazing and kind of confusing, but crazy none the less.
 
 Recently I had to integrate Python as a scripting language into a large c++ project and though I should get to know the language first. And let me tell you, it's simply magical.
 
@@ -1144,14 +1060,14 @@ I could give Python the project's memory allocator and the interpreter immediate
 
 Python essentially supercharges c++.
 
-Now, I'm not going to change my preference of c/c++ any time soon, but I just had to make a post about how nicely Python works as a scripting language in a c++ project. Cheers",gc691l,Reddit - r/Python
-241,I just finished a 48 hour game jam using Python and Pygame! (Source in comments.),auh5ig,Reddit - r/Python
-242,Map Creator made using python,il3ydr,Reddit - r/Python
-243,"Maybe I am the only idiot who has done something like this but I just wanted to share my embarrassing interview experience. Let's cut it to the chase, so I had this video interview where I was given a question and a shared editor.  I decided to use a dictionary for my solution (one of my favorite ds) and named the variable as myDict. While I was explaining my logic, I made sure I was emphasizing the letter 't' whenever I pronounced myDict (so that it doesn't sound like my\_dick). Anyway, while I was typing the solution and explaining, obviously, my brain started concentrating on the code and I wasn't paying much attention to what I was saying. Apparently, my pronunciation started sounding like 'my dick'. On top of that, I was using that dick so much to the point that interviewer started laughing. Imagine when you are explaining the space complexity and you say something along the lines 'the size of myDict is proportional to the size of input array'. Anyone else has done something embarrassing like this?
+Now, I'm not going to change my preference of c/c++ any time soon, but I just had to make a post about how nicely Python works as a scripting language in a c++ project. Cheers",auh5ig,Reddit - r/Python
+242,I just finished a 48 hour game jam using Python and Pygame! (Source in comments.),il3ydr,Reddit - r/Python
+243,Map Creator made using python,hq8zp2,Reddit - r/Python
+244,"Maybe I am the only idiot who has done something like this but I just wanted to share my embarrassing interview experience. Let's cut it to the chase, so I had this video interview where I was given a question and a shared editor.  I decided to use a dictionary for my solution (one of my favorite ds) and named the variable as myDict. While I was explaining my logic, I made sure I was emphasizing the letter 't' whenever I pronounced myDict (so that it doesn't sound like my\_dick). Anyway, while I was typing the solution and explaining, obviously, my brain started concentrating on the code and I wasn't paying much attention to what I was saying. Apparently, my pronunciation started sounding like 'my dick'. On top of that, I was using that dick so much to the point that interviewer started laughing. Imagine when you are explaining the space complexity and you say something along the lines 'the size of myDict is proportional to the size of input array'. Anyone else has done something embarrassing like this?
 
-EDIT: embracing == embarrassing ",hq8zp2,Reddit - r/Python
-244,"I made a coding interview site with video conferencing, collaborative code editing and remote code execution.",gv2dy5,Reddit - r/Python
-245,"https://inventwithpython.com/automateudemy (This link will automatically redirect you to the latest discount code.)
+EDIT: embracing == embarrassing ",gv2dy5,Reddit - r/Python
+245,"I made a coding interview site with video conferencing, collaborative code editing and remote code execution.",k4rxw0,Reddit - r/Python
+246,"https://inventwithpython.com/automateudemy (This link will automatically redirect you to the latest discount code.)
 
 You can also click this link or manually enter the code: DEC2020FREE
 
@@ -1173,15 +1089,15 @@ You can also purchase the course at a discount using my code DEC2020 or clicking
 * It's totally fine to start on the first edition and then read the second edition later. I'll be writing a blog post to guide first edition readers to the parts of the second edition they should read.
 * I wrote a blog post to cover [what's new in the second edition](https://inventwithpython.com/blog/2019/10/07/whats-new-in-the-2nd-edition-of-automate-the-boring-stuff-with-python/)
 * **You're not too old to learn to code. You don't need to be ""good at math"" to be good at coding.**
-* Signing up is the first step. Actually finishing the course is the next. :) [There are several ways to get/stay motivated.](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_how_can_i_get.2Fstay_motivated_to_learn_programming.3F) I suggest getting a ""gym buddy"" to learn with.",k4rxw0,Reddit - r/Python
-246,"Do not install or use the [ssh\-decorator](https://pypi.org/project/ssh-decorate/#files) package from Pip. It has a backdoor inserted to steal all your SSH credentials. I've already contacted the developer to take it out. He hasn't responded so for now, use at your own risk! [https://ibb.co/kdDk67](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fibb%2Eco%2FkdDk67&amp;urlhash=SFzn&amp;_t=tracking_anet)
+* Signing up is the first step. Actually finishing the course is the next. :) [There are several ways to get/stay motivated.](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_how_can_i_get.2Fstay_motivated_to_learn_programming.3F) I suggest getting a ""gym buddy"" to learn with.",8hvzja,Reddit - r/Python
+247,"Do not install or use the [ssh\-decorator](https://pypi.org/project/ssh-decorate/#files) package from Pip. It has a backdoor inserted to steal all your SSH credentials. I've already contacted the developer to take it out. He hasn't responded so for now, use at your own risk! [https://ibb.co/kdDk67](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fibb%2Eco%2FkdDk67&amp;urlhash=SFzn&amp;_t=tracking_anet)
 
 **UPDATE:** The compromised package has been taken down now.
 
-https://preview.redd.it/zu0guck3cmw01.png?width=819&amp;format=png&amp;auto=webp&amp;s=91772cecb537bbac3c364af80c0a824a42714421",8hvzja,Reddit - r/Python
-247,Made my first fractal,eazg05,Reddit - r/Python
-248,an error in my code makes the Mandelbrot set look even cooler,e4js7g,Reddit - r/Python
-249,"I do freelance python development in mainly web scraping, automation, building very simple Flask APIs, simple Vue frontend and more or less doing what I like to call ""general-purpose programming"".
+https://preview.redd.it/zu0guck3cmw01.png?width=819&amp;format=png&amp;auto=webp&amp;s=91772cecb537bbac3c364af80c0a824a42714421",eazg05,Reddit - r/Python
+248,Made my first fractal,e4js7g,Reddit - r/Python
+249,an error in my code makes the Mandelbrot set look even cooler,jm9dnh,Reddit - r/Python
+250,"I do freelance python development in mainly web scraping, automation, building very simple Flask APIs, simple Vue frontend and more or less doing what I like to call ""general-purpose programming"".
 
 Now, I am reasonably skilled in python, I believe. Don't write OOP and class-based python unless I am doing more than 100 lines of code. Most often write pretty simple stuff but most of the time goes into problem-solving.
 
@@ -1210,12 +1126,12 @@ People don't know exactly why senior devs get paid so much money. Junior devs wr
 
 Doctors rant about ""expert"" patients earning their MDs from WebMD and I am seeing the exact same thing happen to me with clients knowing how to write loops in python.
 
-Python is easy to learn, programming these days is easy to learn. But people are not paying programmers for writing loops and if statements. They are paying them to solve problems. Knowing the alphabet doesn't make you a poet. And yes in my eyes programming is poetry.",jm9dnh,Reddit - r/Python
-250,I made a raytracer in Python from scratch!,gcra5c,Reddit - r/Python
-251,I made a Backtracking Algorithm Visualizer in Python with Pygame as my very first personal project!,hyxwlh,Reddit - r/Python
-252,"""The rules of perf"" at Dropbox",eip48b,Reddit - r/Python
-253,Python is Now Officially the Second Most Popular Programming Language,jo4h73,Reddit - r/Python
-254,"Hey folks! My friend and I are building [Devbook](https://usedevbook.com). It’s a desktop app that allows you to search in Stack Overflow, search and read documentation, and search public code on GitHub from a single place. The whole app can be controlled just using a keyboard. No need to use your mouse. This way, it’s easier to stay in the flow.
+Python is easy to learn, programming these days is easy to learn. But people are not paying programmers for writing loops and if statements. They are paying them to solve problems. Knowing the alphabet doesn't make you a poet. And yes in my eyes programming is poetry.",gcra5c,Reddit - r/Python
+251,I made a raytracer in Python from scratch!,hyxwlh,Reddit - r/Python
+252,I made a Backtracking Algorithm Visualizer in Python with Pygame as my very first personal project!,eip48b,Reddit - r/Python
+253,"""The rules of perf"" at Dropbox",jo4h73,Reddit - r/Python
+254,Python is Now Officially the Second Most Popular Programming Language,lsgyvf,Reddit - r/Python
+255,"Hey folks! My friend and I are building [Devbook](https://usedevbook.com). It’s a desktop app that allows you to search in Stack Overflow, search and read documentation, and search public code on GitHub from a single place. The whole app can be controlled just using a keyboard. No need to use your mouse. This way, it’s easier to stay in the flow.
 
 The app works similarly to Spotlight on macOS. You hit a global shortcut and Devbook appears as an overlay over the currently active app. This way you minimalize the needed context switching when looking up information. You almost don't leave your coding editor.
 
@@ -1239,14 +1155,14 @@ Oh, boy did this blow-up! Every week, we just share Devbook in various subreddit
 
 For the near future Devbook release, we're building an extensions system that will allow you to add search functionality we don't support out of the box. Imagine Google customizable through vscode-like extensions. You can read more [here](https://github.com/DevbookHQ/devbook-extension).
 
-Keep the feedback going. Big updates coming soon!",lsgyvf,Reddit - r/Python
-255,"I wrote a syllabus for learning Python and Django. Four people have gone through it, two are interviewing and one got a job. It's based on using a somewhat even mix of coding challenges, personal projects and books.",icefif,Reddit - r/Python
-256,Just a python apprentice here... Was bored every day of attending school meetings on zoom so I used pyautogui to attend those for me;),gxl1e4,Reddit - r/Python
-257,"I’m learning Python, but I also came across my dads old BASIC textbook. The problem solving aspect of the book is almost better than any modern one I’ve read.",iix2ru,Reddit - r/Python
-258,The youtube-dl repository has been restored on GitHub with help from the Electronic Frontier Foundation,jvbqzc,Reddit - r/Python
-259,Spent a few days hacking together a ray-casting engine that renders to ascii for playing in your terminal! With shading and textures! Link in the comments.,crdx3p,Reddit - r/Python
-260,i created a sorting algorithm visual that can compare the speed and efficiency of different algorithms on variable-length lists in python,hw78c7,Reddit - r/Python
-261,"I was trying to make something similar to the default profile picture you are assigned on stack overflow. But what came out the other end was not what I was expecting!! hahah
+Keep the feedback going. Big updates coming soon!",icefif,Reddit - r/Python
+256,"I wrote a syllabus for learning Python and Django. Four people have gone through it, two are interviewing and one got a job. It's based on using a somewhat even mix of coding challenges, personal projects and books.",gxl1e4,Reddit - r/Python
+257,Just a python apprentice here... Was bored every day of attending school meetings on zoom so I used pyautogui to attend those for me;),iix2ru,Reddit - r/Python
+258,"I’m learning Python, but I also came across my dads old BASIC textbook. The problem solving aspect of the book is almost better than any modern one I’ve read.",jvbqzc,Reddit - r/Python
+259,The youtube-dl repository has been restored on GitHub with help from the Electronic Frontier Foundation,crdx3p,Reddit - r/Python
+260,Spent a few days hacking together a ray-casting engine that renders to ascii for playing in your terminal! With shading and textures! Link in the comments.,hw78c7,Reddit - r/Python
+261,i created a sorting algorithm visual that can compare the speed and efficiency of different algorithms on variable-length lists in python,je7wqo,Reddit - r/Python
+262,"I was trying to make something similar to the default profile picture you are assigned on stack overflow. But what came out the other end was not what I was expecting!! hahah
 
 I mean look at these things, and because its random they are always different.
 
@@ -1340,27 +1256,27 @@ https://preview.redd.it/6v7capxts7u51.png?width=592&amp;format=png&amp;auto=webp
 
 https://preview.redd.it/nwtraoxts7u51.png?width=600&amp;format=png&amp;auto=webp&amp;s=167ec598ad4ae7ae5361aaa5db9a32bcedfeafbe
 
-https://preview.redd.it/4esgkvxts7u51.png?width=592&amp;format=png&amp;auto=webp&amp;s=28272074c658966d0bcd312cc4e4e935ba3ff8b8",je7wqo,Reddit - r/Python
-262,"Here is my progress so far on my python game engine for the terminal, after almost a month of work. It can convert pictures and make animations, move sprites, move and animate ascii art, display sprites with layer effect, transparency and so on... I plan on releasing it's source code in a month.",dk7qm7,Reddit - r/Python
-263,Backtracking algorithm visualized with Sudoku,f6hynk,Reddit - r/Python
-264,I made a program that allows you to download song cover arts from Spotify or Soundcloud and then embeds them to your MP3 files.,ftktcn,Reddit - r/Python
-265,I made a face recognition program,fzwbcx,Reddit - r/Python
-266,"😷Stuck at home? We're giving away a free Python course bundle right now:
+https://preview.redd.it/4esgkvxts7u51.png?width=592&amp;format=png&amp;auto=webp&amp;s=28272074c658966d0bcd312cc4e4e935ba3ff8b8",dk7qm7,Reddit - r/Python
+263,"Here is my progress so far on my python game engine for the terminal, after almost a month of work. It can convert pictures and make animations, move sprites, move and animate ascii art, display sprites with layer effect, transparency and so on... I plan on releasing it's source code in a month.",f6hynk,Reddit - r/Python
+264,Backtracking algorithm visualized with Sudoku,ftktcn,Reddit - r/Python
+265,I made a program that allows you to download song cover arts from Spotify or Soundcloud and then embeds them to your MP3 files.,fzwbcx,Reddit - r/Python
+266,I made a face recognition program,fpgq1j,Reddit - r/Python
+267,"😷Stuck at home? We're giving away a free Python course bundle right now:
 
 [https://realpython.com/free-courses-march-2020](https://realpython.com/free-courses-march-2020)
 
-(Access code at the link above, no strings attached whatsoever, feel free to share)",fpgq1j,Reddit - r/Python
-267,"I've seen a bunch of Pygame physics simulations here recently, so here's my take on it: accurately modelling the orbits of objects in our solar system using data from JPL Horizons",humqci,Reddit - r/Python
-268,Found it funny ;),92tbgy,Reddit - r/Python
-269,Dear PyGui Now Has Built-in Demo,jn2xh2,Reddit - r/Python
-270,I made a hanged man game using turtle library,hfgvsq,Reddit - r/Python
-271,prettymaps: A small set of Python functions to draw pretty maps from OpenStreetMap data,pbbjeo,Reddit - r/Python
-272,I made a command-line tool that instantly fetches Stack Overflow results when you get a compiler error,8cwq72,Reddit - r/Python
-273,My nightly ritual.,aa64p6,Reddit - r/Python
-274,[OC] Maze solving algorithm recursively attemps to solve the maze,eme6k8,Reddit - r/Python
-275,Texas Instruments’ new calculator incorporates popular Python programming language,oulpdu,Reddit - r/Python
-276,The most copied comment in Stack Overflow is on how to resize figures in matplotlib,n0aitm,Reddit - r/Python
-277,"I've written programming textbooks for beginners before, about OCaml and Haskell, but this is the first time I've written about an imperative language, and I would love for you to have a look at it.
+(Access code at the link above, no strings attached whatsoever, feel free to share)",humqci,Reddit - r/Python
+268,"I've seen a bunch of Pygame physics simulations here recently, so here's my take on it: accurately modelling the orbits of objects in our solar system using data from JPL Horizons",92tbgy,Reddit - r/Python
+269,Found it funny ;),jn2xh2,Reddit - r/Python
+270,Dear PyGui Now Has Built-in Demo,hfgvsq,Reddit - r/Python
+271,I made a hanged man game using turtle library,pbbjeo,Reddit - r/Python
+272,prettymaps: A small set of Python functions to draw pretty maps from OpenStreetMap data,8cwq72,Reddit - r/Python
+273,I made a command-line tool that instantly fetches Stack Overflow results when you get a compiler error,aa64p6,Reddit - r/Python
+274,My nightly ritual.,eme6k8,Reddit - r/Python
+275,[OC] Maze solving algorithm recursively attemps to solve the maze,oulpdu,Reddit - r/Python
+276,Texas Instruments’ new calculator incorporates popular Python programming language,n0aitm,Reddit - r/Python
+277,The most copied comment in Stack Overflow is on how to resize figures in matplotlib,jj6d01,Reddit - r/Python
+278,"I've written programming textbooks for beginners before, about OCaml and Haskell, but this is the first time I've written about an imperative language, and I would love for you to have a look at it.
 It's available on Amazon as a printed book ($19.99) and Kindle book ($9.99):
 
 https://www.amazon.com/Python-Very-Beginning-exercises-answers/dp/0957671156/
@@ -1369,8 +1285,8 @@ It's also available as a DRM-free PDF, for $9.99:
 
 https://www.pythonfromtheverybeginning.com
 
-If you can't afford $9.99, please contact me using the contact form on the website telling me how much you can afford, or letting me know you can't afford it at all. I will send it to you by email. This process will be manual, not immediate! But I will try to be as quick as I can.",jj6d01,Reddit - r/Python
-278,"https://inventwithpython.com/automateudemy (This link will automatically redirect you to the latest discount code.)
+If you can't afford $9.99, please contact me using the contact form on the website telling me how much you can afford, or letting me know you can't afford it at all. I will send it to you by email. This process will be manual, not immediate! But I will try to be as quick as I can.",i1w03b,Reddit - r/Python
+279,"https://inventwithpython.com/automateudemy (This link will automatically redirect you to the latest discount code.)
 
 You can also click this link or manually enter the code: COPSHOTMEINPORTLAND2
 
@@ -1392,9 +1308,9 @@ You can also purchase the course at a discount using my code COPSHOTMEINPORTLAND
 * It's totally fine to start on the first edition and then read the second edition later. I'll be writing a blog post to guide first edition readers to the parts of the second edition they should read.
 * I wrote a blog post to cover [what's new in the second edition](https://inventwithpython.com/blog/2019/10/07/whats-new-in-the-2nd-edition-of-automate-the-boring-stuff-with-python/)
 * **You're not too old to learn to code. You don't need to be ""good at math"" to be good at coding.**
-* Signing up is the first step. Actually finishing the course is the next. :) [There are several ways to get/stay motivated.](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_how_can_i_get.2Fstay_motivated_to_learn_programming.3F) I suggest getting a ""gym buddy"" to learn with.",i1w03b,Reddit - r/Python
-279,I cross-stitched the Python logo!,e0xm0t,Reddit - r/Python
-280,"We all have a tendency to make assumptions and hardcode these assumptions in the code (""it's ok.. I'll get to it later"").  What happens later?  You move on to the next thing and the hardcode stays there forever.  ""It's ok, I'll document it.. "" - yeah, right!
+* Signing up is the first step. Actually finishing the course is the next. :) [There are several ways to get/stay motivated.](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_how_can_i_get.2Fstay_motivated_to_learn_programming.3F) I suggest getting a ""gym buddy"" to learn with.",e0xm0t,Reddit - r/Python
+280,I cross-stitched the Python logo!,my1m66,Reddit - r/Python
+281,"We all have a tendency to make assumptions and hardcode these assumptions in the code (""it's ok.. I'll get to it later"").  What happens later?  You move on to the next thing and the hardcode stays there forever.  ""It's ok, I'll document it.. "" - yeah, right!
 
 There's a great package called ConfigParser which you can use which simplifies creating config files (like the windows .ini files) so that it takes as much effort as hardcoding!  You can get into the hang of using that instead and it should both help your code more scalable, AND help with making your code a bit more maintainble as well (it'll force you to have better config paramters names)
 
@@ -1406,21 +1322,21 @@ Here's a post I wrote about how to use configparser:
 
 &amp;#x200B;
 
-If you have other hacks about managing code maintenance, documentation.. please let me know!  I'm always trying to learn better ways",my1m66,Reddit - r/Python
-281,Visualisation of different path finding algorithms,eolak4,Reddit - r/Python
-282,Python surpasses C# in popularity among developers,845epf,Reddit - r/Python
-283,A path finder i recently made in Python PyGame,86ufrf,Reddit - r/Python
-284,"Google Translate, but for Sign Language - I used Python and OpenCV AI Kit to perform Sign Language Detection.",mcs1kj,Reddit - r/Python
-285,Just finished my graduation cap for tomorrow,8h512c,Reddit - r/Python
-286,I wrote a song about everyone's favorite Python Enhancement Proposal,lfuy5e,Reddit - r/Python
-287,My Halloween Facepaint - Scary huh?,9t3ko5,Reddit - r/Python
-288,"Physics simulator with rotation and collision I made with Python. If you dropped your phone, and it just kept bouncing!",cg1ipy,Reddit - r/Python
-289,Win10 is going to start including Python 3.7,bx9rrz,Reddit - r/Python
-290,Developed a 'personal home assistant' whatsapp bot to control an appliance (lamp in this case),ha5901,Reddit - r/Python
-291,I am just a beginner in programming. Today I have created my first ever project (Simple Calculator) with Python GUI Tkinter. Thank you for this great community for inspiring me so much.,fio4x4,Reddit - r/Python
-292,Training a neural net on 7 years of text messages became surprisingly self aware,gyf7on,Reddit - r/Python
-293,"Out of curiosity, how many of you guys started your journey with 'Automate the boring stuff'?",jjpd77,Reddit - r/Python
-294,"&amp;#x200B;
+If you have other hacks about managing code maintenance, documentation.. please let me know!  I'm always trying to learn better ways",eolak4,Reddit - r/Python
+282,Visualisation of different path finding algorithms,845epf,Reddit - r/Python
+283,Python surpasses C# in popularity among developers,86ufrf,Reddit - r/Python
+284,A path finder i recently made in Python PyGame,mcs1kj,Reddit - r/Python
+285,"Google Translate, but for Sign Language - I used Python and OpenCV AI Kit to perform Sign Language Detection.",8h512c,Reddit - r/Python
+286,Just finished my graduation cap for tomorrow,lfuy5e,Reddit - r/Python
+287,I wrote a song about everyone's favorite Python Enhancement Proposal,9t3ko5,Reddit - r/Python
+288,My Halloween Facepaint - Scary huh?,cg1ipy,Reddit - r/Python
+289,"Physics simulator with rotation and collision I made with Python. If you dropped your phone, and it just kept bouncing!",bx9rrz,Reddit - r/Python
+290,Win10 is going to start including Python 3.7,ha5901,Reddit - r/Python
+291,Developed a 'personal home assistant' whatsapp bot to control an appliance (lamp in this case),fio4x4,Reddit - r/Python
+292,I am just a beginner in programming. Today I have created my first ever project (Simple Calculator) with Python GUI Tkinter. Thank you for this great community for inspiring me so much.,gyf7on,Reddit - r/Python
+293,Training a neural net on 7 years of text messages became surprisingly self aware,jjpd77,Reddit - r/Python
+294,"Out of curiosity, how many of you guys started your journey with 'Automate the boring stuff'?",odhbql,Reddit - r/Python
+295,"&amp;#x200B;
 
 [LazyWeb: Anonymous and ad-free search made in Python](https://reddit.com/link/odhbql/video/hii57yv446971/player)
 
@@ -1436,8 +1352,8 @@ We have a project on GitHub with Jupyter notebooks and sample data with experime
 
 [https://github.com/lazyweb-ai/lazyweb-experiments](https://github.com/lazyweb-ai/lazyweb-experiments)
 
-We're only a small team but hope to share more of our work as open source as we progress.",odhbql,Reddit - r/Python
-295,"TLDR: 60 sec video here:[https://streamable.com/1y17lt](https://streamable.com/1y17lt)
+We're only a small team but hope to share more of our work as open source as we progress.",k2kbs4,Reddit - r/Python
+296,"TLDR: 60 sec video here:[https://streamable.com/1y17lt](https://streamable.com/1y17lt)
 
 TLDW: When I want to **automate actions on a site**, such as logins or forms, or scraping pages with JavaScript, **I manually** inspect each web element I need and begin writing a script.
 
@@ -1463,8 +1379,8 @@ On the one hand I want to make it free for personal use, on the other hand I’d
 
 I will create a follow up post with links to repo once I’ve created it, this will be my first project on GitHub so try be nice ;) pretty nervous about sharing my code :D
 
-Thank you all for your patience, interest, and awesome discussions",k2kbs4,Reddit - r/Python
-296,A terminal youtube playlist music player - because terminal applications are minimal and running a web browser is an overkill to listen to music,c7a5lq,Reddit - r/Python
-297,Flask app to extract palette of dominating colors from image,9xbq05,Reddit - r/Python
-298,Made a racing game that runs in Terminal. 100% Python,cpmll6,Reddit - r/Python
-299,[AI application] Python implementation of Proximal Policy Optimization (PPO) algorithm for Super Mario Bros. 29/32 levels have been conquered,hy4rc1,Reddit - r/Python
+Thank you all for your patience, interest, and awesome discussions",c7a5lq,Reddit - r/Python
+297,A terminal youtube playlist music player - because terminal applications are minimal and running a web browser is an overkill to listen to music,9xbq05,Reddit - r/Python
+298,Flask app to extract palette of dominating colors from image,cpmll6,Reddit - r/Python
+299,Made a racing game that runs in Terminal. 100% Python,hy4rc1,Reddit - r/Python
+,[AI application] Python implementation of Proximal Policy Optimization (PPO) algorithm for Super Mario Bros. 29/32 levels have been conquered,,
